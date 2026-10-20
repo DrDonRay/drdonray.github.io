@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search — The Reassuring Universe</title>
+<meta name="description" content="Search the essays and poems of The Reassuring Universe by Don Ray.">
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="https://drdonray.github.io/search.html">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand" href="index.html">The Reassuring Universe
+      <span class="brand-sub">Essays by Don Ray</span>
+    </a>
+    <nav class="primary-nav" aria-label="Primary">
+      <a href="index.html">Home</a>
+      <a href="categories/index.html">Categories</a>
+      <a href="search.html" aria-current="page">Search</a>
+    </nav>
+  </div>
+</header>
+
+<p class="breadcrumbs">
+  <a href="index.html">Home</a><span class="sep">/</span><span class="current">Search</span>
+</p>
+
+<main id="main">
+  <div class="page-head">
+    <h1>Search</h1>
+    <form class="site-search" id="search-form" action="search.html" method="get" role="search">
+      <input type="search" id="search-q" name="q" placeholder="Search the essays" aria-label="Search the essays" autocomplete="off">
+      <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+    <p class="search-help">Finds essays and poems that contain all of your words. Put a phrase in quotation marks to search for it exactly.</p>
+    <noscript><p class="search-status">Search needs JavaScript turned on in your browser. You can also browse by <a href="categories/index.html">category</a>.</p></noscript>
+    <p class="search-status" id="search-status" aria-live="polite"></p>
+  </div>
+  <div class="essay-list" id="search-results"></div>
+</main>
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <span>© Don Ray</span>
+    <nav aria-label="Footer">
+      <a href="categories/index.html">All categories</a>
+    </nav>
+  </div>
+</footer>
+<script src="assets/search-index.js"></script>
+<script src="assets/search.js"></script>
+</body>
+</html>

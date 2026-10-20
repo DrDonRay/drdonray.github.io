@@ -1,0 +1,530 @@
+/* ==========================================================================
+   The Reassuring Universe — shared site stylesheet
+   One file, linked by every page, so every page updates together and the
+   HTML itself stays lightweight (per project convention: only the affected
+   essay page and its category index get regenerated on an update).
+   ========================================================================== */
+
+:root {
+  --paper: #faf6ee;
+  --paper-raised: #ffffff;
+  --ink: #2a241c;
+  --ink-soft: #5c5346;
+  --ink-faint: #8a8070;
+  --line: #e4dbc9;
+  --accent: #2f5d59;
+  --accent-soft: #e4efec;
+  --accent-hover: #234643;
+  --tag-bg: #f1ece0;
+  --tag-ink: #6b5f4a;
+  --max-content: 42rem;
+  --max-wide: 68rem;
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1b1914;
+    --paper-raised: #24211a;
+    --ink: #efe8d8;
+    --ink-soft: #c9beac;
+    --ink-faint: #8f8570;
+    --line: #3a352a;
+    --accent: #7fbcb3;
+    --accent-soft: #23312f;
+    --accent-hover: #9fd2c9;
+    --tag-bg: #2a2620;
+    --tag-ink: #b3a88f;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Lora", Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: auto;
+  background: var(--accent);
+  color: #fff;
+  padding: 0.75em 1.25em;
+  z-index: 1000;
+  border-radius: 0 0 8px 0;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+.skip-link:focus { left: 0; top: 0; }
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+a:hover { color: var(--accent-hover); }
+
+h1, h2, h3 {
+  font-family: "Lora", Georgia, serif;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--ink);
+}
+
+.eyebrow, nav, .meta, .tag, button, .btn, .site-footer small {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* ---------- Site chrome ---------- */
+
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: var(--paper);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: saturate(140%) blur(6px);
+}
+
+.site-header-inner {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.brand {
+  font-family: "Lora", Georgia, serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+  color: var(--ink);
+  text-decoration: none;
+}
+.brand:hover { color: var(--accent); }
+.brand .brand-sub {
+  display: block;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-top: 0.15rem;
+}
+
+nav.primary-nav { display: flex; gap: 1.5rem; font-size: 0.92rem; }
+nav.primary-nav a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  padding: 0.25rem 0;
+  border-bottom: 2px solid transparent;
+}
+nav.primary-nav a:hover,
+nav.primary-nav a[aria-current="page"] {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+.breadcrumbs {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 0.9rem 1.5rem 0;
+  font-family: "Inter", sans-serif;
+  font-size: 0.82rem;
+  color: var(--ink-faint);
+}
+.breadcrumbs a { color: var(--ink-faint); text-decoration: none; }
+.breadcrumbs a:hover { color: var(--accent); text-decoration: underline; }
+.breadcrumbs .sep { margin: 0 0.4em; opacity: 0.6; }
+.breadcrumbs .current { color: var(--ink-soft); }
+
+main { display: block; }
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  margin-top: 4rem;
+  padding: 2rem 1.5rem 3rem;
+}
+.site-footer-inner {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-family: "Inter", sans-serif;
+  color: var(--ink-faint);
+  font-size: 0.82rem;
+}
+.site-footer a { color: var(--ink-faint); }
+.site-footer a:hover { color: var(--accent); }
+
+/* ---------- Hero (homepage) ---------- */
+
+.hero {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 4.5rem 1.5rem 3rem;
+  text-align: center;
+}
+.hero h1 { font-size: clamp(2.1rem, 4vw, 3rem); margin: 0 0 0.75rem; }
+.hero p.lede {
+  font-size: 1.15rem;
+  color: var(--ink-soft);
+  max-width: 38rem;
+  margin: 0 auto 2rem;
+}
+.hero-actions { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+
+.btn {
+  display: inline-block;
+  padding: 0.7rem 1.4rem;
+  border-radius: 999px;
+  font-size: 0.92rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1px solid var(--accent);
+}
+.btn-primary { background: var(--accent); color: #fff; }
+.btn-primary:hover { background: var(--accent-hover); color: #fff; }
+.btn-secondary { background: transparent; color: var(--accent); }
+.btn-secondary:hover { background: var(--accent-soft); color: var(--accent-hover); }
+
+/* ---------- Recent essays strip (homepage) ---------- */
+
+.recent-strip {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 0 1.5rem 5rem;
+}
+.recent-strip h2 {
+  font-size: 1.1rem;
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  text-align: center;
+}
+.recent-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.1rem;
+  max-width: 56rem;
+  margin: 0 auto;
+}
+.recent-card {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.5rem 1.6rem;
+  text-decoration: none;
+  color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+a.recent-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.recent-card .eyebrow {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  font-weight: 600;
+}
+.recent-card h3 { margin: 0.2rem 0 0.3rem; font-size: 1.2rem; }
+.recent-card p { color: var(--ink-soft); margin: 0; font-size: 0.94rem; flex-grow: 1; }
+
+/* ---------- Homepage categories ---------- */
+
+.home-categories { max-width: var(--max-wide); margin: 0 auto; padding: 0 0 1rem; }
+.home-categories h2,
+.recent-strip h2 {
+  font-size: 1.1rem;
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  text-align: center;
+}
+.home-categories .category-grid { padding-bottom: 2.5rem; }
+.category-card h3 { font-size: 1.15rem; margin: 0; }
+
+/* ---------- Search ---------- */
+
+.site-search {
+  display: flex;
+  gap: 0.6rem;
+  max-width: 34rem;
+  margin: 0 auto;
+}
+.page-head .site-search { margin: 0.5rem 0 0; }
+.site-search input[type="search"] {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  font-size: 1rem;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper-raised);
+  color: var(--ink);
+}
+.site-search input[type="search"]:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
+.site-search button { cursor: pointer; font-family: "Inter", sans-serif; }
+.search-help { font-family: "Inter", sans-serif; font-size: 0.85rem; color: var(--ink-faint); margin: 0.7rem 0 0; }
+.search-status { font-family: "Inter", sans-serif; font-size: 0.9rem; color: var(--ink-soft); margin: 0.9rem 0 0; }
+.essay-row.search-result { grid-template-columns: 1fr; }
+mark { background: var(--accent-soft); color: inherit; padding: 0 0.1em; border-radius: 3px; }
+
+/* ---------- Category grid (categories overview) ---------- */
+
+.page-head {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 2rem;
+}
+.page-head h1 { margin: 0.25rem 0 0.6rem; }
+.page-head p.lede { color: var(--ink-soft); max-width: 46rem; font-size: 1.05rem; }
+
+.category-grid {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1.1rem;
+}
+
+.category-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--paper-raised);
+  padding: 1.4rem 1.5rem;
+  text-decoration: none;
+  color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+a.category-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.category-card h2 { font-size: 1.15rem; margin: 0; }
+.category-card p { color: var(--ink-soft); font-size: 0.92rem; margin: 0; flex-grow: 1; }
+.category-card .count { font-family: "Inter", sans-serif; font-size: 0.78rem; color: var(--ink-faint); }
+.category-card.is-live { border-color: var(--accent); }
+.category-card.is-pending { cursor: default; opacity: 0.72; }
+.category-card.is-pending:hover { transform: none; border-color: var(--line); }
+.status-pill {
+  display: inline-block;
+  align-self: flex-start;
+  font-family: "Inter", sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+}
+.status-pill.live { background: var(--accent-soft); color: var(--accent); }
+.status-pill.pending { background: var(--tag-bg); color: var(--tag-ink); }
+
+/* ---------- Essay listing (category page) ---------- */
+
+.essay-list {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.essay-row {
+  display: grid;
+  grid-template-columns: 2.5rem 1fr;
+  gap: 1rem;
+  padding: 1.4rem 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--paper-raised);
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color 0.15s ease;
+}
+.essay-row:hover { border-color: var(--accent); }
+.essay-row .pos { font-family: "Inter", sans-serif; font-weight: 700; color: var(--ink-faint); font-size: 1.1rem; }
+.essay-row h3 { margin: 0 0 0.35rem; font-size: 1.2rem; }
+.essay-row p.excerpt { margin: 0 0 0.6rem; color: var(--ink-soft); font-size: 0.97rem; }
+
+/* Arc headings: named groups within a category (also used as book chapter headings) */
+.arc-heading {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  font-weight: 600;
+  margin: 1.6rem 0 0;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--line);
+}
+.essay-list > .arc-heading:first-child { margin-top: 0; }
+
+.tag-list { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.tag { font-size: 0.72rem; color: var(--tag-ink); background: var(--tag-bg); padding: 0.2rem 0.6rem; border-radius: 999px; }
+
+/* ---------- Essay page ---------- */
+
+.essay-head {
+  max-width: var(--max-content);
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 1.5rem;
+}
+.essay-head .eyebrow {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  font-weight: 600;
+}
+.essay-head h1 { font-size: clamp(1.8rem, 3.4vw, 2.4rem); margin: 0.4rem 0 0.85rem; }
+.essay-head .also-in { margin-top: 1rem; }
+.essay-head .also-in .label {
+  font-family: "Inter", sans-serif;
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+  margin-bottom: 0.4rem;
+}
+
+article.essay-body {
+  max-width: var(--max-content);
+  margin: 0 auto;
+  padding: 0.5rem 1.5rem 3rem;
+  font-size: 1.13rem;
+}
+article.essay-body p { margin: 0 0 1.3em; }
+article.essay-body p:first-of-type::first-letter {
+  font-size: 2.6em;
+  line-height: 0.85;
+  float: left;
+  padding-right: 0.09em;
+  padding-top: 0.05em;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* Poems: line breaks and stanza gaps are meaningful, so preserve them
+   verbatim instead of re-flowing into justified prose paragraphs. */
+article.essay-body .poem {
+  white-space: pre-line;
+  margin: 0 0 1.6em;
+  font-size: 1.1rem;
+}
+article.essay-body .poem + .poem { margin-top: -0.6em; }
+
+article.essay-body ul,
+article.essay-body ol {
+  margin: 0 0 1.3em;
+  padding-left: 1.4em;
+}
+article.essay-body li {
+  margin: 0 0 0.7em;
+}
+article.essay-body li:last-child { margin-bottom: 0; }
+
+/* ---------- Continue reading (per-category prev/next on essay pages) ---------- */
+
+.continue-reading {
+  max-width: var(--max-content);
+  margin: 2rem auto 0;
+  padding: 1.5rem 1.5rem 0;
+  border-top: 1px solid var(--line);
+}
+.continue-reading .continue-label {
+  font-family: "Inter", sans-serif;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  margin-bottom: 0.6rem;
+}
+.continue-reading .continue-group + .continue-group { margin-top: 1.6rem; }
+
+.essay-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.essay-nav .nav-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  text-decoration: none;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  color: var(--ink);
+}
+.essay-nav .nav-cell:hover { border-color: var(--accent); }
+.essay-nav .nav-cell.next { text-align: right; align-items: flex-end; }
+.essay-nav .dir {
+  font-family: "Inter", sans-serif;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+}
+.essay-nav .title { font-weight: 600; }
+.essay-nav .nav-cell.disabled { opacity: 0.4; pointer-events: none; }
+
+.back-to-category {
+  max-width: var(--max-content);
+  margin: 1.5rem auto 3rem;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+.back-to-category a { font-family: "Inter", sans-serif; font-size: 0.9rem; text-decoration: none; color: var(--ink-soft); }
+.back-to-category a:hover { color: var(--accent); }
+.back-to-category .sep { margin: 0 0.6em; color: var(--ink-faint); }
+
+.proposal-note {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 0.9rem 1.5rem;
+}
+.proposal-note .inner {
+  background: var(--accent-soft);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0.85rem 1.1rem;
+  font-family: "Inter", sans-serif;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.proposal-note .inner strong { color: var(--ink); }
+
+@media (max-width: 560px) {
+  .site-header-inner { flex-direction: column; align-items: flex-start; }
+  .essay-row { grid-template-columns: 1fr; }
+  .essay-row .pos { display: none; }
+  .essay-nav { grid-template-columns: 1fr; }
+  .essay-nav .nav-cell.next { text-align: left; align-items: flex-start; }
+}
