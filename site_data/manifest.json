@@ -1,0 +1,2162 @@
+{
+  "categories": {
+    "observations-of-human-life": {
+      "label": "Seeing Life",
+      "blurb": "Harshness, beauty, despair, Hope.",
+      "lede": "Harshness, beauty, despair, Hope.",
+      "meta_description": "Forty-seven essays and poems by Don Ray on everyday human life — screens, belief, crowds, war, and nature — in its harshness, beauty, despair, and Hope.",
+      "og_description": "Forty-seven essays and poems by Don Ray on everyday human life — screens, belief, crowds, war, and nature — in its harshness, beauty, despair, and Hope.",
+      "arcs": [
+        {
+          "label": "Small scenes",
+          "starts_at": "soul-music-i"
+        },
+        {
+          "label": "Belonging and busyness",
+          "starts_at": "childish-questions"
+        },
+        {
+          "label": "Screens and belief",
+          "starts_at": "digital-storm"
+        },
+        {
+          "label": "Judgment and perception",
+          "starts_at": "judgement-daze"
+        },
+        {
+          "label": "Common Madness",
+          "starts_at": "oblivious-to-the-obvious"
+        },
+        {
+          "label": "Religion and belief revisited",
+          "starts_at": "crumbling-temples-crumbling-lessons"
+        },
+        {
+          "label": "The meadow and the field",
+          "starts_at": "in-need-of-meadow"
+        },
+        {
+          "label": "Hope",
+          "starts_at": "cynical-encouragement"
+        }
+      ],
+      "ordering_notes": [
+        "The category now opens on small scenes, as its lede promises: \"Look at these little kids! … They have not yet learned to be bored.\" The sharpest critiques (Oblivious to the Obvious, No Time for Grief) arrive at the center, after the reader has seen the madness up close.",
+        "The field journals now run in the order they happened: Coyote Creation, then The Fledging of Downy Woodpeckers (\"Skipping coyotes this morning in case downies fledge\"), then Coyote Tales (\"Downy woodpeckers fledged, so back to seeing the coyotes\")."
+      ],
+      "former_header_names": [
+        "Observations of human life"
+      ]
+    },
+    "personal-perspective": {
+      "label": "Personal Perspective",
+      "blurb": "Close, first-person vignettes — mostly animals, mostly mornings.",
+      "lede": "Six close, first-person vignettes — mostly animals, mostly mornings. Ordered from the most concrete and observational to the most abstract, each finds something larger inside a small, specific scene.",
+      "meta_description": "Six close, first-person essays by Don Ray on animals, mornings, and the ordinary moments that carry more than they seem to.",
+      "og_description": "Six close, first-person essays by Don Ray on animals, mornings, and the ordinary moments that carry more than they seem to.",
+      "arcs": [
+        {
+          "label": "Animal mornings",
+          "starts_at": "at-the-ranch"
+        },
+        {
+          "label": "Beyond the animals",
+          "starts_at": "hillside"
+        }
+      ],
+      "former_header_names": [
+        "Personal perspective"
+      ]
+    },
+    "poetry": {
+      "label": "Poetry",
+      "blurb": "…or unorthodox attempts at poetry.",
+      "lede": "…or unorthodox attempts at poetry.",
+      "meta_description": "Twenty-one poems by Don Ray, or unorthodox attempts at poetry: small moments, a harsh world, faith tested, and the Mystery behind the questions the essays ask.",
+      "og_description": "Twenty-one poems by Don Ray, or unorthodox attempts at poetry: small moments, a harsh world, faith tested, and the Mystery behind the questions the essays ask.",
+      "arcs": [
+        {
+          "label": "Small moments",
+          "starts_at": "laughs-of-grass"
+        },
+        {
+          "label": "The world's harshness and the self",
+          "starts_at": "freedom-from-opportunity"
+        },
+        {
+          "label": "Faith tested",
+          "starts_at": "another-fresh-start"
+        },
+        {
+          "label": "Liminal touch",
+          "starts_at": "you-will-be-touched"
+        },
+        {
+          "label": "Questions, Truth, Mystery",
+          "starts_at": "worship"
+        }
+      ],
+      "ordering_notes": [
+        "The faith run matches Transcendence's order: Another Fresh Start, then Mere Faith to Move Mountains, then Storm of Creation.",
+        "The close is questions, then Truth, then Mystery. Worship (\"This is worship of the questions themselves\") leads to Truth.....Any Takers?, and then to Lessons of the Mystery (\"The Mystery abides, welcoming our explorations\")."
+      ],
+      "former_header_names": [
+        "Poetry"
+      ]
+    },
+    "spiritual-with-religion": {
+      "label": "Naming the Spiritual",
+      "blurb": "Unorthodox perspectives of realistic faith.",
+      "lede": "Unorthodox perspectives of realistic faith.",
+      "meta_description": "Sixty-six essays and poems by Don Ray on faith called by name — scripture, prayer, Yeshu, and the church — unorthodox perspectives of realistic faith.",
+      "og_description": "Sixty-six essays and poems by Don Ray on faith called by name — scripture, prayer, Yeshu, and the church — unorthodox perspectives of realistic faith.",
+      "arcs": [
+        {
+          "label": "Presence in Creation",
+          "starts_at": "silken-tide"
+        },
+        {
+          "label": "Stillness",
+          "starts_at": "stop-for-a-moment"
+        },
+        {
+          "label": "Faith by name: prayer, scripture, angels",
+          "starts_at": "question-revealing-truth"
+        },
+        {
+          "label": "Defiant faith",
+          "starts_at": "temporally-senseless"
+        },
+        {
+          "label": "Reality’s Lessons",
+          "starts_at": "the-death-of-personal-growth"
+        },
+        {
+          "label": "From the Garden to Home",
+          "starts_at": "knowledge-of-good-and-evil"
+        },
+        {
+          "label": "Love Out of Madness",
+          "starts_at": "the-scrum-of-perfection"
+        },
+        {
+          "label": "Consciousness",
+          "starts_at": "unlocked-door-of-our-solitary-confinement"
+        },
+        {
+          "label": "In Search of the Authentic",
+          "starts_at": "bridges-of-sound-and-light"
+        }
+      ],
+      "ordering_notes": [
+        "The Yeshu cluster follows the church year: Christmas, then Palm Sunday, then the empty tomb (Do Not Cling to the Light), then the Lamb (Powerless Triumph).",
+        "The ending matches The Nameless Spiritual (minus Truth.....Any Takers?, which is not in this category), from Bridges of Sound and Light through Lessons of the Mystery, so readers of both books meet that close the same way."
+      ],
+      "former_header_names": [
+        "Spiritual with mention of religion"
+      ]
+    },
+    "spiritual-without-religion": {
+      "label": "The Nameless Spiritual",
+      "blurb": "An essay journey launched in ordinary moments, carried by tides and winds of life’s storms, finally landing in the Light of Mystery.",
+      "lede": "An essay journey launched in ordinary moments, carried by tides and winds of life’s storms, finally landing in the Light of Mystery.",
+      "meta_description": "Forty-eight essays and poems by Don Ray on the sacred found in ordinary moments, without doctrine — a journey through life’s storms to the Light of Mystery.",
+      "og_description": "Forty-eight essays and poems by Don Ray on the sacred found in ordinary moments, without doctrine — a journey through life’s storms to the Light of Mystery.",
+      "arcs": [
+        {
+          "label": "Presence in Light and Nature",
+          "starts_at": "silken-tide"
+        },
+        {
+          "label": "Fear, suffering, and charades",
+          "starts_at": "stop-for-a-moment"
+        },
+        {
+          "label": "Hardship, madness, and growth",
+          "starts_at": "the-death-of-personal-growth"
+        },
+        {
+          "label": "Harshness and storms, creation and birth",
+          "starts_at": "the-scrum-of-perfection"
+        },
+        {
+          "label": "Consciousness and the self",
+          "starts_at": "enduring-consciousness"
+        },
+        {
+          "label": "Connection, worship, and the Mystery",
+          "starts_at": "bridges-of-sound-and-light"
+        }
+      ],
+      "ordering_notes": [
+        "The close moves from critique to worship to Mystery. The Bass Voice of God's amplified worship is followed by Worship (\"No convenient totems and trinkets … none of that for this worship\"). Then come Three Principles (\"authentic worship ultimately is actualized in how you treat all living forms\"), Truth.....Any Takers? and Lessons of the Mystery."
+      ],
+      "former_header_names": [
+        "Spiritual, without overt mention of religion"
+      ]
+    },
+    "structure-of-the-purpose-and-destiny-of-life": {
+      "label": "Foundation – Purpose – Meaning – Destiny",
+      "blurb": "The architecture underneath it all — why we're here, and where it's going.",
+      "lede": "This physical life is after all merely a parable, a corporeal telling of a tale with meanings disguised, a momentary riddle condensing truths eternal. Thirty-four essays and poems, moving from small scenes in Nature and the shape of a single life, through the structure beneath it — Choice, consciousness, and why this world holds so much madness — toward the place of Light that awaits.",
+      "meta_description": "Thirty-four essays and poems by Don Ray tracing the architecture underneath it all — why we're here, and where it's going.",
+      "og_description": "Thirty-four essays and poems by Don Ray tracing the architecture underneath it all — why we're here, and where it's going.",
+      "arcs": [
+        {
+          "label": "Glimpses in Nature",
+          "starts_at": "at-the-ranch"
+        },
+        {
+          "label": "The shape of a life",
+          "starts_at": "summary-of-life"
+        },
+        {
+          "label": "The framework: Choice, birth, consciousness",
+          "starts_at": "our-actions-coerced-compelled-chosen"
+        },
+        {
+          "label": "Why this world: the Garden, madness, and Love",
+          "starts_at": "knowledge-of-good-and-evil"
+        },
+        {
+          "label": "Living toward Unity",
+          "starts_at": "bridges-of-sound-and-light"
+        },
+        {
+          "label": "What awaits",
+          "starts_at": "shadow-embrace"
+        }
+      ],
+      "ordering_notes": [
+        "The framework now comes before the pieces that rely on it. Our Actions (\"The structure of existence … it is all right before us\") lays out survival, connection and chosen Love before Dark Matter and The Inevitable and the Certain build on \"the Choice\".",
+        "The Garden trilogy: Knowledge of Good and Evil, then Would We Miss Death (\"Would we eat the Fruit in the Garden again?\"), then Terrifying Passage, which answers it.",
+        "The overture pieces become conclusions. Three Principles (\"Were we to boil everything down … You are not alone\") and Currency of the Soul (\"Patience and faith are the currency of the soul\") now distill the living section instead of opening the category.",
+        "The two destiny poems close it. Shadow Embrace (\"perfection hidden for now\") is followed by Overlapping Projections of Gods (\"In that place of Light …\")."
+      ],
+      "former_header_names": [
+        "Structure of the purpose and destiny of life"
+      ]
+    },
+    "transcendent-conversations-and-vision": {
+      "label": "Transcendence",
+      "blurb": "Futile attempts to capture the ineffable.",
+      "lede": "Futile attempts to capture the ineffable.",
+      "meta_description": "Twelve essays and poems by Don Ray reaching past the ordinary toward vision and direct address — futile, perhaps, but earnest attempts to capture the ineffable.",
+      "og_description": "Twelve essays and poems by Don Ray reaching past the ordinary toward vision and direct address — futile, perhaps, but earnest attempts to capture the ineffable.",
+      "arcs": [
+        {
+          "label": "Grounded moments",
+          "starts_at": "just-a-moment"
+        },
+        {
+          "label": "Seeing and urgency",
+          "starts_at": "seeing-through-our-dreams-and-scars"
+        },
+        {
+          "label": "Faith purified by failure",
+          "starts_at": "another-fresh-start"
+        },
+        {
+          "label": "This world as crucible and storm",
+          "starts_at": "fledging"
+        },
+        {
+          "label": "The edge, the veil, and beyond",
+          "starts_at": "edge"
+        }
+      ],
+      "ordering_notes": [
+        "The close is a journey outward. This world as storm (Storm of Creation), then its edge (Edge), then the veil (Incarnationalism), then home (Shadow Embrace: \"Welcome home … the substance behind our shadows is revealed\")."
+      ],
+      "former_header_names": [
+        "Transcendent conversations and vision"
+      ]
+    }
+  },
+  "category_order": [
+    "personal-perspective",
+    "transcendent-conversations-and-vision",
+    "structure-of-the-purpose-and-destiny-of-life",
+    "spiritual-without-religion",
+    "spiritual-with-religion",
+    "observations-of-human-life",
+    "poetry"
+  ],
+  "essays": {
+    "a-higher-perspective": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "The ants flew this morning on their colony’s annual matrimonial breeding flight!",
+          "rank": 70,
+          "note": "A Higher Perspective is the hinge out of the Nature pieces. The alate on the T-shirt raises the question outright: \"if we can ask the question must there necessarily be an answer?\""
+        }
+      },
+      "meta_description": "A short essay by Don Ray: a dying winged ant prompts a meditation on meaning, purpose, and the limits of what we can ever know of either.",
+      "og_description": "A dying winged ant prompts a meditation on meaning, purpose, and the limits of what we can ever know of either.",
+      "title": "A Higher Perspective"
+    },
+    "accept-what-you-want": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Why do we not get answers? Why do we have to invest time in contemplative prayer if we want a little conscious experience of Communion with God?",
+          "rank": 190
+        }
+      },
+      "meta_description": "A short essay by Don Ray on why God withholds detailed answers, preserving the freedom that makes us children of God.",
+      "og_description": "Why God withholds detailed answers, preserving the freedom that makes us children of God.",
+      "title": "Accept What You Want"
+    },
+    "alate-assist": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Let life rise, let us all rise, and let us be for each other the aid and uplifting to allow bodies and spirits to soar.",
+          "rank": 380,
+          "note": "Alate Assist hands off to Ripples in Time: a winged ant lifted into flight, then an insect falling dead onto the author's hand."
+        }
+      },
+      "meta_description": "A field-journal essay by Don Ray on a struggling flying ant, and the small assist that let it rise.",
+      "og_description": "A struggling flying ant, and the small assist that let it rise.",
+      "title": "Alate Assist"
+    },
+    "alternative-path-home": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "So upset is that little squirrel on the utility pole.",
+          "rank": 70
+        },
+        "spiritual-without-religion": {
+          "excerpt": "So upset is that little squirrel on the utility pole.",
+          "rank": 70
+        }
+      },
+      "meta_description": "A short essay by Don Ray: a squirrel blocked from its usual path finds another way home, and a lesson about holding the goal fixed while the path changes.",
+      "og_description": "A squirrel blocked from its usual path finds another way home, and a lesson about holding the goal fixed while the path changes.",
+      "title": "Alternative Path Home"
+    },
+    "another-fresh-start": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "What’s left, when every plan has failed? What remains after every hope is dashed?",
+          "rank": 110
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "What’s left, when every plan has failed? What remains after every hope is dashed?",
+          "rank": 50
+        }
+      },
+      "meta_description": "A poem by Don Ray on the strange liberation of hopelessness — a clean slate after every plan has failed.",
+      "og_description": "The strange liberation of hopelessness — a clean slate after every plan has failed.",
+      "title": "Another Fresh Start"
+    },
+    "antithetical-societal-solution": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Contemplation is the anti-quick fix, the anti-instant gratification, the anti-productivity… Contemplation/prayer could not be more antithetical to modern society.",
+          "rank": 100,
+          "note": "Antithetical Societal Solution hands off to Digital Storm: \"the boss, cell-phone, next episode, next tweet … erect the bars\"."
+        }
+      },
+      "meta_description": "An essay by Don Ray on a rare quiet Saturday morning, and contemplation as a quietly subversive act.",
+      "og_description": "A rare quiet Saturday morning, and contemplation as a quietly subversive act.",
+      "title": "Antithetical Societal Solution"
+    },
+    "apprenticed-to-god": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Oh, to not be productive, to be liberated from the need to be productive!",
+          "rank": 530
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Oh, to not be productive, to be liberated from the need to be productive!",
+          "rank": 280
+        }
+      },
+      "meta_description": "A short essay by Don Ray on learning to create by being apprenticed, in this imperfect world, to the Creator.",
+      "og_description": "Learning to create by being apprenticed, in this imperfect world, to the Creator.",
+      "title": "Apprenticed to God"
+    },
+    "artificial-intelligence-and-real-stupidity": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Artificial intelligence will be no match for real stupidity.",
+          "rank": 180
+        }
+      },
+      "meta_description": "A short essay by Don Ray on belief wielded as a weapon, and what technology can and cannot save us from.",
+      "og_description": "Belief wielded as a weapon, and what technology can and cannot save us from.",
+      "title": "Artificial Intelligence and Real Stupidity"
+    },
+    "at-the-ranch": {
+      "memberships": {
+        "personal-perspective": {
+          "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
+          "rank": 10
+        },
+        "spiritual-with-religion": {
+          "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
+          "rank": 30
+        },
+        "spiritual-without-religion": {
+          "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
+          "rank": 30
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
+          "rank": 10
+        }
+      },
+      "meta_description": "A short essay by Don Ray: a horse grooming two piglets becomes a glimpse into the secrets of Nature, and a reason not to hurry.",
+      "og_description": "A horse grooming two piglets becomes a glimpse into the secrets of Nature, and a reason not to hurry.",
+      "title": "At the Ranch"
+    },
+    "beauty-in-the-madness": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "On a recent sunrise contemplative walk, I experienced a most curious peaceful insight.",
+          "rank": 460
+        },
+        "spiritual-without-religion": {
+          "excerpt": "On a recent sunrise contemplative walk, I experienced a most curious peaceful insight.",
+          "rank": 250
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "On a recent sunrise contemplative walk, I experienced a most curious peaceful insight.",
+          "rank": 210
+        }
+      },
+      "meta_description": "A short essay by Don Ray on finding beauty in the persistent madness of the human condition, viewed from a contemplative distance.",
+      "og_description": "Finding beauty in the persistent madness of the human condition, viewed from a contemplative distance.",
+      "title": "Beauty in the Madness"
+    },
+    "blanket-man": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Was there security under those blankets? Was there ever a smile under those blankets?",
+          "rank": 50
+        }
+      },
+      "meta_description": "An essay by Don Ray on a homeless man who sat under blankets for years, and what his fate says about the rest of us.",
+      "og_description": "A homeless man who sat under blankets for years, and what his fate says about the rest of us.",
+      "title": "Blanket Man"
+    },
+    "boring-angels": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Relationships with angels lack reciprocity. You cannot help the angel.",
+          "rank": 210
+        }
+      },
+      "meta_description": "A short essay by Don Ray on why relationships with angels lack reciprocity, and why Unity requires kindred, changeable spirits instead.",
+      "og_description": "Why relationships with angels lack reciprocity, and why Unity requires kindred, changeable spirits instead.",
+      "title": "Boring Angels"
+    },
+    "breeze-of-mystery": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Pure poetry, of course we need pure poetry. To capture the Mystery prose cannot suffice.",
+          "rank": 40
+        },
+        "spiritual-with-religion": {
+          "excerpt": "Pure poetry, of course we need pure poetry. To capture the Mystery prose cannot suffice.",
+          "rank": 20
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Pure poetry, of course we need pure poetry. To capture the Mystery prose cannot suffice.",
+          "rank": 20
+        }
+      },
+      "meta_description": "A poem by Don Ray: pure poetry over prose to gesture at the Mystery — a breeze brushing the skin, undoubtedly there, uncompromisingly invisible.",
+      "og_description": "Pure poetry over prose to gesture at the Mystery — a breeze brushing the skin, undoubtedly there, uncompromisingly invisible.",
+      "title": "Breeze of Mystery"
+    },
+    "bridges-of-sound-and-light": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
+          "rank": 30
+        },
+        "spiritual-with-religion": {
+          "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
+          "rank": 590
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
+          "rank": 400
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
+          "rank": 290
+        }
+      },
+      "meta_description": "A short essay by Don Ray on music, painting, and poetry as fragile bridges built to connect one soul to another.",
+      "og_description": "Music, painting, and poetry as fragile bridges built to connect one soul to another.",
+      "title": "Bridges of Sound and Light"
+    },
+    "childish-questions": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "The curiosity and incredulity and bafflement and criticism with which children view our human world are exquisitely justified.",
+          "rank": 70
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the honest questions children ask, and the madness we learn to stop noticing.",
+      "og_description": "The honest questions children ask, and the madness we learn to stop noticing.",
+      "title": "Childish Questions"
+    },
+    "collapse-of-worldly-wisdom": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "In moments of fear and panic and distress our worldly wisdom breaks down and we are left without a clear course of action.",
+          "rank": 350
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the moments when worldly wisdom breaks down, revealing the Void between this world and the Kindom.",
+      "og_description": "The moments when worldly wisdom breaks down, revealing the Void between this world and the Kindom.",
+      "title": "Collapse of Worldly Wisdom"
+    },
+    "combat-and-compassion": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "People are generally as programmed in their behavior as any cat or dog.",
+          "rank": 470,
+          "note": "Combat and Compassion leads into Conveniently Rational Munitions: \"a Creation based on claw and combat\" giving rise to Love, then the engine of cruelty that still yields \"a spark of compassion\"."
+        }
+      },
+      "meta_description": "A short essay by Don Ray on people as programmed as any cat or dog, and spiritual practice as liberation from that programming.",
+      "og_description": "People as programmed as any cat or dog, and spiritual practice as liberation from that programming.",
+      "title": "Combat and Compassion"
+    },
+    "contact-eternity": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Take your life seriously. Take every contact seriously. Take every interaction seriously, for they are each profound, enduring, eternal.",
+          "rank": 400
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the enduring, rippling influence of every small human contact.",
+      "og_description": "The enduring, rippling influence of every small human contact.",
+      "title": "Contact Eternity"
+    },
+    "conveniently-rational-munitions": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "The world, unremittingly harsh. The world, unchangeable.",
+          "rank": 100
+        },
+        "spiritual-with-religion": {
+          "excerpt": "The world, unremittingly harsh. The world, unchangeable.",
+          "rank": 480
+        },
+        "spiritual-without-religion": {
+          "excerpt": "The world, unremittingly harsh. The world, unchangeable.",
+          "rank": 260
+        }
+      },
+      "meta_description": "A poem by Don Ray on the world's churning engine of excused cruelty, and the small, unbefitting sparks of compassion that restrain it.",
+      "og_description": "The world's churning engine of excused cruelty, and the small, unbefitting sparks of compassion that restrain it.",
+      "title": "Conveniently Rational Munitions"
+    },
+    "conversation-with-an-angel": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "“Fear not” is the most common admonition/directive/command in the Bible, appearing dozens of times, by some counts more than a hundred.",
+          "rank": 220
+        },
+        "spiritual-without-religion": {
+          "excerpt": "“Fear not” is the most common admonition/directive/command in the Bible, appearing dozens of times, by some counts more than a hundred.",
+          "rank": 160,
+          "note": "Save the World hands off to Conversation with an angel: \"'fear not' if you can believe that\" is followed by \"Fear not? Are you flippin' crazy?!\""
+        }
+      },
+      "meta_description": "A short essay by Don Ray talking back to an angel's “fear not” — impractical advice, and the case that going on anyway is faith enough.",
+      "og_description": "Talking back to an angel's “fear not” — impractical advice, and the case that going on anyway is faith enough.",
+      "title": "Conversation with an angel"
+    },
+    "coyote-creation": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "There are no answers in this scene, at least none I can yet understand. But there is sublime ineffable beauty, Purpose evident even though inscrutable.",
+          "rank": 340
+        }
+      },
+      "meta_description": "A short field-journal essay by Don Ray on a coyote mother's morning run to her hidden pups.",
+      "og_description": "A coyote mother's morning run to her hidden pups.",
+      "title": "Coyote Creation"
+    },
+    "coyote-tales-and-red-moon-omen": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "The moon was a sickly red last night high in the sky, an ominous portent from many fires.",
+          "rank": 360
+        }
+      },
+      "meta_description": "A field-journal essay by Don Ray pairing coyote pups at play with an ominous red moon.",
+      "og_description": "Pairing coyote pups at play with an ominous red moon.",
+      "title": "Coyote Tales and Red Moon Omen"
+    },
+    "crumbling-temples-crumbling-lessons": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "In each of those Roman temples we now see as ruins there had to be a last priest of that cult.",
+          "rank": 300
+        },
+        "spiritual-with-religion": {
+          "excerpt": "In each of those Roman temples we now see as ruins there had to be a last priest of that cult.",
+          "rank": 620
+        },
+        "spiritual-without-religion": {
+          "excerpt": "In each of those Roman temples we now see as ruins there had to be a last priest of that cult.",
+          "rank": 430
+        }
+      },
+      "meta_description": "A short essay by Don Ray, written on a train leaving Rome, imagining the last priest of a Roman temple cult facing a faith no one needed anymore.",
+      "og_description": "Written on a train leaving Rome, imagining the last priest of a Roman temple cult facing a faith no one needed anymore.",
+      "title": "Crumbling Temples, Crumbling Lessons"
+    },
+    "cuddling-and-carnivores": {
+      "memberships": {
+        "personal-perspective": {
+          "excerpt": "Down at the horse-barn a crow insistently tries to tell me something of great urgency.",
+          "rank": 20,
+          "note": "Cuddling and Carnivores joins At the Ranch: same horse barn, same two little pigs."
+        }
+      },
+      "meta_description": "A short essay by Don Ray: affection for pigs being raised to be eaten, and what that says about awareness inside necessity.",
+      "og_description": "Affection for pigs being raised to be eaten, and what that says about awareness inside necessity.",
+      "title": "Cuddling and Carnivores"
+    },
+    "currency-of-the-soul": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
+          "rank": 140
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
+          "rank": 130
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
+          "rank": 310
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
+          "rank": 40
+        }
+      },
+      "meta_description": "A poem by Don Ray: patience and faith as the currency the soul spends, and compassion as the return that never disappoints.",
+      "og_description": "Patience and faith as the currency the soul spends, and compassion as the return that never disappoints.",
+      "title": "Currency of the Soul"
+    },
+    "cynical-encouragement": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "There is some good in the world, and it needs all the encouragement it can get.",
+          "rank": 420
+        }
+      },
+      "meta_description": "An essay by Don Ray weighing cynical realism against hope, after a day spent researching tires.",
+      "og_description": "Weighing cynical realism against hope, after a day spent researching tires.",
+      "title": "Cynical Encouragement"
+    },
+    "dark-matter-and-the-light-of-love": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Human society is a chaos of suffering and misery and injustice and violence.",
+          "rank": 250
+        }
+      },
+      "meta_description": "A short essay by Don Ray: Love as the weakest force in human affairs, and the one that, like gravity, quietly holds everything together.",
+      "og_description": "Love as the weakest force in human affairs, and the one that, like gravity, quietly holds everything together.",
+      "title": "Dark Matter and the Light of Love"
+    },
+    "deer-and-coyotes": {
+      "memberships": {
+        "personal-perspective": {
+          "excerpt": "Deer stand on the trail above the gamboling coyote pups in the valley, a mother and yearling deer maybe.",
+          "rank": 40,
+          "note": "Deer and Coyotes now follows Frantic. Its second half (\"universes of conscious experience … overlapping\") is the most abstract of the animal pieces. The same At the Ranch, Frantic, Deer and Coyotes, Hillside order is used in all four categories these pieces share."
+        },
+        "spiritual-with-religion": {
+          "excerpt": "Deer stand on the trail above the gamboling coyote pups in the valley, a mother and yearling deer maybe.",
+          "rank": 50
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Deer stand on the trail above the gamboling coyote pups in the valley, a mother and yearling deer maybe.",
+          "rank": 50
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Deer stand on the trail above the gamboling coyote pups in the valley, a mother and yearling deer maybe.",
+          "rank": 30
+        }
+      },
+      "meta_description": "A field-journal essay by Don Ray on deer, a family of coyote pups, and what it means for consciousness to briefly overlap.",
+      "og_description": "A field-journal essay on deer, a family of coyote pups, and what it means for consciousness to briefly overlap.",
+      "title": "Deer and Coyotes"
+    },
+    "defiant-subversive-seditious-christmas": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Christmas carols at Lessons and Carols! How I love singing those traditional religious carols!",
+          "rank": 250
+        }
+      },
+      "meta_description": "A short essay by Don Ray on Christmas carols, and a Love triumphant enough to shine through the dung and blood of the world.",
+      "og_description": "Christmas carols, and a Love triumphant enough to shine through the dung and blood of the world.",
+      "title": "Defiant-Subversive-Seditious Christmas"
+    },
+    "destructive-gentleness": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Is gentleness so impractical, so irrelevant, so pointless that we would be better off relegating it to a wish list?",
+          "rank": 450
+        }
+      },
+      "meta_description": "An essay by Don Ray questioning whether gentleness has any place in a world built on toughness.",
+      "og_description": "Questioning whether gentleness has any place in a world built on toughness.",
+      "title": "Destructive Gentleness"
+    },
+    "did-we-love": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "We each leave our legacy, whether an empty and unnoticed void or a towering chrome and steel corporation.",
+          "rank": 360
+        },
+        "spiritual-without-religion": {
+          "excerpt": "We each leave our legacy, whether an empty and unnoticed void or a towering chrome and steel corporation.",
+          "rank": 210
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "We each leave our legacy, whether an empty and unnoticed void or a towering chrome and steel corporation.",
+          "rank": 110
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the time-consuming details of daily life, and the two questions that echo beneath them: were we loved, and did we love?",
+      "og_description": "The time-consuming details of daily life, and the two questions that echo beneath them: were we loved, and did we love?",
+      "title": "Did We Love?"
+    },
+    "digital-disruption": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "The digital disruption has unleashed the worst of human nature and created levels of illusion and delusion and detachment never before experienced.",
+          "rank": 120
+        }
+      },
+      "meta_description": "An essay by Don Ray on digital disruption, superficial connection, and the reassurance still available through it.",
+      "og_description": "Digital disruption, superficial connection, and the reassurance still available through it.",
+      "title": "Digital Disruption"
+    },
+    "digital-migrations": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "We now migrate digitally. Our tribe and ethnic group has been replaced by those who listen to the same news sources.",
+          "rank": 170
+        }
+      },
+      "meta_description": "An essay by Don Ray tracing 100,000 years of human grouping to ask what our new digital migrations are building.",
+      "og_description": "Tracing 100,000 years of human grouping to ask what our new digital migrations are building.",
+      "title": "Digital Migrations"
+    },
+    "digital-storm": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "The digital storm, the storm of manipulation. We were not ready for this.",
+          "rank": 110
+        }
+      },
+      "meta_description": "A short poem by Don Ray on the digital storm of manipulation that overwhelmed us before we were ready.",
+      "og_description": "The digital storm of manipulation that overwhelmed us before we were ready.",
+      "title": "Digital Storm"
+    },
+    "digitally-fractured-beliefs": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Shatter beliefs and shatter a nation, fragment beliefs and destroy a civilization.",
+          "rank": 160
+        }
+      },
+      "meta_description": "An essay by Don Ray on how digital media shattered the shared belief that once held neighbors and nations together.",
+      "og_description": "How digital media shattered the shared belief that once held neighbors and nations together.",
+      "title": "Digitally Fractured Beliefs"
+    },
+    "do-not-cling-to-the-light": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Stay, stay in place for a moment, hold your ground as long as you dare.",
+          "rank": 270
+        }
+      },
+      "meta_description": "A poem by Don Ray on Mary Magdalene at the empty tomb, and the admonition not to cling to a Light the world isn't yet ready for.",
+      "og_description": "Mary Magdalene at the empty tomb, and the admonition not to cling to a Light the world isn't yet ready for.",
+      "title": "Do Not Cling to the Light"
+    },
+    "edge": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "There is a liminal peace, a liminal peace right at the edge of this temporal world, right there, right at the edge.",
+          "rank": 150
+        },
+        "spiritual-without-religion": {
+          "excerpt": "There is a liminal peace, a liminal peace right at the edge of this temporal world, right there, right at the edge.",
+          "rank": 360
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "There is a liminal peace, a liminal peace right at the edge of this temporal world, right there, right at the edge.",
+          "rank": 100
+        }
+      },
+      "meta_description": "A poem by Don Ray on the liminal peace at the edge of this temporal world, reached only by searching within.",
+      "og_description": "The liminal peace at the edge of this temporal world, reached only by searching within.",
+      "title": "Edge"
+    },
+    "enduring-consciousness": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "The only thing that has endured throughout our entire lives is our individual consciousness.",
+          "rank": 410
+        },
+        "spiritual-without-religion": {
+          "excerpt": "The only thing that has endured throughout our entire lives is our individual consciousness.",
+          "rank": 310
+        }
+      },
+      "meta_description": "A short essay by Don Ray: the only thing that has endured throughout our entire lives is our individual consciousness, so why do we invest nothing in it?",
+      "og_description": "The only thing that has endured throughout our entire lives is our individual consciousness, so why do we invest nothing in it?",
+      "title": "Enduring Consciousness"
+    },
+    "faith-crisis-faith-freedom": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Disproving one belief casts all the others into doubt. Horror of horrors, we are forced to accept personal responsibility for what we believe!",
+          "rank": 320,
+          "note": "Faith Crisis, Faith Freedom hands off to In Need of Meadow: the audit of one's beliefs, then \"I seek repentance from this life of following and going with the world's flow\", and the meadow's perspective."
+        }
+      },
+      "meta_description": "An essay by Don Ray on the wrenching, ultimately liberating crisis of faith that comes from admitting a belief was wrong.",
+      "og_description": "The wrenching, ultimately liberating crisis of faith that comes from admitting a belief was wrong.",
+      "title": "Faith Crisis, Faith Freedom"
+    },
+    "faith-madness": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Living in faith means of necessity living in contradiction to the world.",
+          "rank": 490
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Living in faith means of necessity living in contradiction to the world.",
+          "rank": 270
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Living in faith means of necessity living in contradiction to the world.",
+          "rank": 220
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "Living in faith means of necessity living in contradiction to the world.",
+          "rank": 70,
+          "note": "Faith Madness leads into Fledging: \"mad, maddening, marvelous\" faith, then \"mad and maddening chaos\" from which pure Love is distilled."
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the sense and senselessness of living by faith rather than by worldly practicality.",
+      "og_description": "The sense and senselessness of living by faith rather than by worldly practicality.",
+      "title": "Faith Madness"
+    },
+    "fledging": {
+      "memberships": {
+        "personal-perspective": {
+          "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
+          "rank": 60
+        },
+        "spiritual-with-religion": {
+          "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
+          "rank": 500
+        },
+        "spiritual-without-religion": {
+          "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
+          "rank": 280
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
+          "rank": 230
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
+          "rank": 80
+        }
+      },
+      "meta_description": "A short essay by Don Ray: this world as an iron pot boiling toward a feast of purified love that never goes to waste.",
+      "og_description": "This world as an iron pot boiling toward a feast of purified love that never goes to waste.",
+      "title": "Fledging"
+    },
+    "flightless-souls-on-walkabout": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "At the pond, post sunrise, the three Marx brothers ducks at my feet.",
+          "rank": 80
+        },
+        "spiritual-without-religion": {
+          "excerpt": "At the pond, post sunrise, the three Marx brothers ducks at my feet.",
+          "rank": 80
+        }
+      },
+      "meta_description": "A short essay by Don Ray: flightless ducks wandering from the safety of their pond, and what their dangerous walkabouts say about our own restless souls.",
+      "og_description": "Flightless ducks wandering from the safety of their pond, and what their dangerous walkabouts say about our own restless souls.",
+      "title": "Flightless Souls on Walkabout"
+    },
+    "following-the-unseeable": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "There are always ways to give. There are always ways to give more.",
+          "rank": 290
+        }
+      },
+      "meta_description": "A short essay by Don Ray on following a calling and God's will, knowing both will be obscured and contradictory.",
+      "og_description": "Following a calling and God's will, knowing both will be obscured and contradictory.",
+      "title": "Following the Unseeable"
+    },
+    "for-the-children": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "What if they simply want to raise their children in safety and security…might we surprisingly find ourselves on the same side?",
+          "rank": 270
+        }
+      },
+      "meta_description": "An essay by Don Ray imagining negotiations built around what warring parties actually want for their children.",
+      "og_description": "Imagining negotiations built around what warring parties actually want for their children.",
+      "title": "For the Children"
+    },
+    "forgiving-god": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Is it really all our fault?",
+          "rank": 520
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Is it really all our fault?",
+          "rank": 300,
+          "note": "Forgiving God hands off to Enduring Consciousness through the same image: \"these chrysalides of humanity\", then the body as \"merely a passing chrysalis form\"."
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Is it really all our fault?",
+          "rank": 260
+        }
+      },
+      "meta_description": "A short essay by Don Ray asking whether it's God, not us, who needs forgiving for the constraints of this life, and what still arises in spite of them.",
+      "og_description": "Whether it's God, not us, who needs forgiving for the constraints of this life, and what still arises in spite of them.",
+      "title": "Forgiving God"
+    },
+    "frantic": {
+      "memberships": {
+        "personal-perspective": {
+          "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
+          "rank": 30
+        },
+        "spiritual-with-religion": {
+          "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
+          "rank": 40
+        },
+        "spiritual-without-religion": {
+          "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
+          "rank": 40
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
+          "rank": 20
+        }
+      },
+      "meta_description": "A short essay by Don Ray: watching a fledgling robin's chaotic first day out of the nest, and wondering if we left our own nest too soon.",
+      "og_description": "Watching a fledgling robin's chaotic first day out of the nest, and wondering if we left our own nest too soon.",
+      "title": "Frantic"
+    },
+    "freedom-from-opportunity": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Dark. Light in the dark. Run toward it!",
+          "rank": 70
+        }
+      },
+      "meta_description": "A poem by Don Ray on what's revealed of us only in the absence of opportunity, when left to our own devices.",
+      "og_description": "What's revealed of us only in the absence of opportunity, when left to our own devices.",
+      "title": "Freedom From Opportunity"
+    },
+    "ghost-of-perfection": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "What new can be said? What new can possibly be said?",
+          "rank": 50,
+          "note": "Ghost of Perfection's open ending (\"waiting there,\") is followed by Symphony of Chance, which keeps listening, so the reader is carried onward as you intend."
+        },
+        "spiritual-with-religion": {
+          "excerpt": "What new can be said? What new can possibly be said?",
+          "rank": 450
+        },
+        "spiritual-without-religion": {
+          "excerpt": "What new can be said? What new can possibly be said?",
+          "rank": 240
+        }
+      },
+      "meta_description": "A poem by Don Ray on glimpsing perfection in a flutter of wing or passing breeze, gone as soon as seen.",
+      "og_description": "Glimpsing perfection in a flutter of wing or passing breeze, gone as soon as seen.",
+      "title": "Ghost of Perfection"
+    },
+    "heart-blindness": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Such madness besets this poor blinded humanity! Dear God, such madness!",
+          "rank": 340
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Such madness besets this poor blinded humanity! Dear God, such madness!",
+          "rank": 200
+        }
+      },
+      "meta_description": "A short essay by Don Ray, written outside an office while waiting with grieving friends, on the blindness that leaves us gasping at each ripped discontinuity in life.",
+      "og_description": "Written while waiting with grieving friends, on the blindness that leaves us gasping at each ripped discontinuity in life.",
+      "title": "Heart Blindness"
+    },
+    "heaven-with-a-little-help-from-me-friends": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Joe Cocker, dead?! That is of course preposterous. Surely it is time to dispel this cruel illusion of death.",
+          "rank": 420
+        }
+      },
+      "meta_description": "A short essay by Don Ray, prompted by Joe Cocker's death, on whether Heaven simply liberates the true self hidden by pain and fear.",
+      "og_description": "Prompted by Joe Cocker's death, on whether Heaven simply liberates the true self hidden by pain and fear.",
+      "title": "Heaven With a Little Help From Me Friends"
+    },
+    "hillside": {
+      "memberships": {
+        "personal-perspective": {
+          "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
+          "rank": 50
+        },
+        "spiritual-with-religion": {
+          "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
+          "rank": 60
+        },
+        "spiritual-without-religion": {
+          "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
+          "rank": 60
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
+          "rank": 40
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
+          "rank": 20
+        }
+      },
+      "meta_description": "A short essay by Don Ray: angels tending an ordinary hillside, and what it feels like when a moment refuses to hurry.",
+      "og_description": "Angels tending an ordinary hillside, and what it feels like when a moment refuses to hurry.",
+      "title": "Hillside"
+    },
+    "impact-of-refugees": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "God help us if we are not changed by the encounter. We will not change the world, but can we change a life?",
+          "rank": 280
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the refugee crisis, and the question it leaves for those of us who are safe.",
+      "og_description": "The refugee crisis, and the question it leaves for those of us who are safe.",
+      "title": "Impact of Refugees"
+    },
+    "impossible-yearning": {
+      "memberships": {
+        "spiritual-without-religion": {
+          "excerpt": "Is the deep Unity and Communion to which the human spirit is called fundamentally not realizable on this earth?",
+          "rank": 350
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Is the deep Unity and Communion to which the human spirit is called fundamentally not realizable on this earth?",
+          "rank": 160
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the human longing for Unity and Communion, and why it's better placed in Source than in any person or institution.",
+      "og_description": "The human longing for Unity and Communion, and why it's better placed in Source than in any person or institution.",
+      "title": "Impossible Yearning"
+    },
+    "in-need-of-meadow": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "We need meadows in our lives, we need a chance to get some momentary distance, some perspective.",
+          "rank": 330
+        }
+      },
+      "meta_description": "A field-journal essay by Don Ray on a quiet meadow, and the perspective it offers away from the tangle of society.",
+      "og_description": "A quiet meadow, and the perspective it offers away from the tangle of society.",
+      "title": "In Need of Meadow"
+    },
+    "incarnationalism": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Oh the joys of contemplative prayer. Oh the touch of Reality. Oh the blindness.",
+          "rank": 160
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "Oh the joys of contemplative prayer. Oh the touch of Reality. Oh the blindness.",
+          "rank": 110
+        }
+      },
+      "meta_description": "A poem by Don Ray on the blindness of the corporeal mind, and the Light that shows through its unraveling threads.",
+      "og_description": "The blindness of the corporeal mind, and the Light that shows through its unraveling threads.",
+      "title": "Incarnationalism"
+    },
+    "indefensible-hope": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Take heart. Take no faith in this world, but take heart in its moments of beauty.",
+          "rank": 300
+        }
+      },
+      "meta_description": "A short essay by Don Ray on a hope rooted beyond time, needing no worldly reason and no defense.",
+      "og_description": "A hope rooted beyond time, needing no worldly reason and no defense.",
+      "title": "Indefensible Hope"
+    },
+    "inevitable-war": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Wars arise from freely chosen evil in the hearts of malevolent and politically popular leaders.",
+          "rank": 260
+        }
+      },
+      "meta_description": "An essay by Don Ray asking whether war is truly inevitable, or a freely chosen evil we keep choosing.",
+      "og_description": "Whether war is truly inevitable, or a freely chosen evil we keep choosing.",
+      "title": "Inevitable War?"
+    },
+    "inexorable-life": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Ultimately, what is Life? Life is the creation of our essence, we the children of God.",
+          "rank": 430
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Ultimately, what is Life? Life is the creation of our essence, we the children of God.",
+          "rank": 140
+        }
+      },
+      "meta_description": "A short essay by Don Ray: life and growth flow inevitably, like a river, however our choices shape the course along the way.",
+      "og_description": "Life and growth flow inevitably, like a river, however our choices shape the course along the way.",
+      "title": "Inexorable Life"
+    },
+    "intention-of-attention": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Glorious. Critical angle sun spotlights the willows on the opposite side of the pond. The ducks’ iridescent green heads shimmer in the low-angle sun.",
+          "rank": 120,
+          "note": "Intention of Attention is the turn from Nature to named faith. The pond at sunrise becomes \"'Repent!' cries the Meschioch\"."
+        }
+      },
+      "meta_description": "A short essay and poem by Don Ray on the discipline of consciousness, and how attention carries with it the responsibility of intention.",
+      "og_description": "On the discipline of consciousness, and how attention carries with it the responsibility of intention.",
+      "title": "Intention of Attention"
+    },
+    "judgement-daze": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Judgement is always bad for the soul, yet from the first message and first flicker of the screen the daily words and images demand that we cast judgement.",
+          "rank": 190
+        }
+      },
+      "meta_description": "An essay by Don Ray on the daily flood of media-fed judgment of others, and the judgment it invites on ourselves.",
+      "og_description": "The daily flood of media-fed judgment of others, and the judgment it invites on ourselves.",
+      "title": "Judgement Daze"
+    },
+    "just-a-moment": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Warm sun on neck. Cool air on face. Trilling birds in trees.",
+          "rank": 20,
+          "note": "Just a Moment as No. 2 is a small joke that works. \"This is no time for poetry\" lands right after the first poem."
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "Warm sun on neck. Cool air on face. Trilling birds in trees.",
+          "rank": 10,
+          "note": "Just a Moment opens the category: \"Penetrate this moment and discover it is the gateway to all moments.\" Hillside's angels then come through that gateway."
+        }
+      },
+      "meta_description": "A poem by Don Ray on refusing to let a warm, ordinary moment slip away for the sake of goals and objectives.",
+      "og_description": "Refusing to let a warm, ordinary moment slip away for the sake of goals and objectives.",
+      "title": "Just a Moment"
+    },
+    "knowledge-of-good-and-evil": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "To have profound knowledge of good and evil you must be inescapably trapped in a situation out of your control.",
+          "rank": 380
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "To have profound knowledge of good and evil you must be inescapably trapped in a situation out of your control.",
+          "rank": 170
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the Garden of Eden story as necessary embodiment for real moral experience.",
+      "og_description": "The Garden of Eden story as necessary embodiment for real moral experience.",
+      "title": "Knowledge of Good and Evil"
+    },
+    "laughs-of-grass": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Golden grasses, the bed for last night’s deer, as beautiful as when fresh and green.",
+          "rank": 10
+        }
+      },
+      "meta_description": "A short poem by Don Ray on golden grass, still beautiful crisp and spent as it was fresh and green.",
+      "og_description": "Golden grass, still beautiful crisp and spent as it was fresh and green.",
+      "title": "Laughs of Grass"
+    },
+    "lessons-of-the-mystery": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Lessons, life lessons, learned and taken so seriously, lessons for the individual, no one else.",
+          "rank": 210
+        },
+        "spiritual-with-religion": {
+          "excerpt": "Lessons, life lessons, learned and taken so seriously, lessons for the individual, no one else.",
+          "rank": 660
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Lessons, life lessons, learned and taken so seriously, lessons for the individual, no one else.",
+          "rank": 480
+        }
+      },
+      "meta_description": "A poem by Don Ray on life's private, unrepeatable lessons, and a Mystery that welcomes our clumsy explorations of it.",
+      "og_description": "Life's private, unrepeatable lessons, and a Mystery that welcomes our clumsy explorations of it.",
+      "title": "Lessons of the Mystery"
+    },
+    "life-adrift-or-navigating-life": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "As we go through life the shallow waters of a familiar lagoon seem safe and pretty and warm.",
+          "rank": 330
+        },
+        "spiritual-without-religion": {
+          "excerpt": "As we go through life the shallow waters of a familiar lagoon seem safe and pretty and warm.",
+          "rank": 190
+        }
+      },
+      "meta_description": "A short essay by Don Ray: the enticing shallow waters of the familiar shore, and what it takes to sail with resolve though we know not our destination.",
+      "og_description": "The enticing shallow waters of the familiar shore, and what it takes to sail with resolve though we know not our destination.",
+      "title": "Life Adrift or Navigating Life"
+    },
+    "machine-mirrors": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "We can say that the screens and keyboards are both mirror and window, revealing the unfiltered condition of the human spirit.",
+          "rank": 130
+        }
+      },
+      "meta_description": "An essay by Don Ray on what our hours spent staring at screens reveal about the human spirit.",
+      "og_description": "What our hours spent staring at screens reveal about the human spirit.",
+      "title": "Machine Mirrors"
+    },
+    "many-truths": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "And there it is, the great destructive force of our times, the great deceit that has without warning overcome our society.",
+          "rank": 200
+        }
+      },
+      "meta_description": "An essay by Don Ray on the seductive, isolating claim that there are “many truths.”",
+      "og_description": "The seductive, isolating claim that there are “many truths.”",
+      "title": "Many Truths"
+    },
+    "material-separation": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "How coldly and lifelessly the material possessors to which we give our souls take from us opportunities for the eternal.",
+          "rank": 90
+        }
+      },
+      "meta_description": "A short essay by Don Ray on how errands, possessions, and maintenance quietly steal the time meant for relationship.",
+      "og_description": "How errands, possessions, and maintenance quietly steal the time meant for relationship.",
+      "title": "Material Separation"
+    },
+    "mere-faith-to-move-mountains": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "The world, chaos and madness, tearing and conflicting, confusing and confounding.",
+          "rank": 120
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "The world, chaos and madness, tearing and conflicting, confusing and confounding.",
+          "rank": 60
+        }
+      },
+      "meta_description": "A poem by Don Ray on faith purified by repeated failure, building not a mountain to be moved but one to be built.",
+      "og_description": "Faith purified by repeated failure, building not a mountain to be moved but one to be built.",
+      "title": "Mere Faith to Move Mountains"
+    },
+    "mindfield": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "People will give their lives to save others. People will kill to defend their ideas and beliefs.",
+          "rank": 150
+        }
+      },
+      "meta_description": "A short essay by Don Ray on belief as the real battlefield behind divorce, riots, and war.",
+      "og_description": "Belief as the real battlefield behind divorce, riots, and war.",
+      "title": "Mindfield"
+    },
+    "more-than-meat": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Spiritual discussions: don’t hear many of those in the workplace or locker room.",
+          "rank": 600
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Spiritual discussions: don’t hear many of those in the workplace or locker room.",
+          "rank": 410
+        }
+      },
+      "meta_description": "A long essay by Don Ray comparing the sexual revolution's openness to our continuing silence about personal, intimate spiritual experience.",
+      "og_description": "Comparing the sexual revolution's openness to our continuing silence about personal, intimate spiritual experience.",
+      "title": "More Than Meat"
+    },
+    "no-time-for-grief": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "No time for grief, these times, no time for grief. Too much to get done in too short a time.",
+          "rank": 250
+        },
+        "poetry": {
+          "excerpt": "No time for grief, these times, no time for grief. Too much to get done in too short a time.",
+          "rank": 90
+        }
+      },
+      "meta_description": "A poem by Don Ray on holding fast to what's precious as the world's facades and certainties come apart.",
+      "og_description": "Holding fast to what's precious as the world's facades and certainties come apart.",
+      "title": "No Time for Grief"
+    },
+    "oblivious-to-the-obvious": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "There is no easy breaking of this spell, this spell cast by the rich and powerful seeking more riches and power, this spell cast via media manipulation.",
+          "rank": 240,
+          "note": "Oblivious to the Obvious leads into No Time for Grief: the spell of manipulated masses, then \"the facades are falling\"."
+        }
+      },
+      "meta_description": "An essay by Don Ray on the willful, cultivated madness of self-destructive populism, and the values worth preserving when it takes hold.",
+      "og_description": "The willful, cultivated madness of self-destructive populism, and the values worth preserving when it takes hold.",
+      "title": "Oblivious to the Obvious"
+    },
+    "ontological-meaning-of-salvation": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "In this life we are forming as individual and unique identities.",
+          "rank": 410
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the necessary isolation of a newly conscious self, and Salvation as the Choice to reach back through the Void.",
+      "og_description": "The necessary isolation of a newly conscious self, and Salvation as the Choice to reach back through the Void.",
+      "title": "Ontological Meaning of Salvation"
+    },
+    "our-actions-coerced-compelled-chosen": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "The answers are all right before us. The structure of existence, the nature of our being, the summary of purpose and meaning, it is all right before us.",
+          "rank": 120
+        }
+      },
+      "meta_description": "A short essay by Don Ray on three levels of human action: survival, connection, and freely chosen, selfless Love.",
+      "og_description": "Three levels of human action: survival, connection, and freely chosen, selfless Love.",
+      "title": "Our Actions: Coerced; Compelled; Chosen"
+    },
+    "our-ancient-birth": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "I call this temporal world the place of our spiritual birth and the time of our Choice.",
+          "rank": 240
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "I call this temporal world the place of our spiritual birth and the time of our Choice.",
+          "rank": 130
+        }
+      },
+      "meta_description": "A short essay by Don Ray on spiritual birth and Choice as ancient, ongoing, and older than any single religion's words for them.",
+      "og_description": "Spiritual birth and Choice as ancient, ongoing, and older than any single religion's words for them.",
+      "title": "Our Ancient Birth"
+    },
+    "our-nature": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "We can celebrate Nature, no longer afraid or intimidated…if we haven't killed it.",
+          "rank": 370
+        }
+      },
+      "meta_description": "An essay by Don Ray on humanity's long war with Nature, and the fragile new chance to love it instead.",
+      "og_description": "Humanity's long war with Nature, and the fragile new chance to love it instead.",
+      "title": "Our Nature"
+    },
+    "overlapping-projections-of-gods": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
+          "rank": 180
+        },
+        "spiritual-with-religion": {
+          "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
+          "rank": 570
+        },
+        "spiritual-without-religion": {
+          "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
+          "rank": 370
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
+          "rank": 340
+        }
+      },
+      "meta_description": "A short poem by Don Ray on individual consciousness as a soft, flexible light without this world's hard edges of conflict.",
+      "og_description": "Individual consciousness as a soft, flexible light without this world's hard edges of conflict.",
+      "title": "Overlapping Projections of Gods"
+    },
+    "overlapping-realities": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "The seductions of this carnal world leave us all living a dream, overlapping individual dreams perhaps, but being dreams they are not grounded in a shared objective reality.",
+          "rank": 210
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the ungrounded, overlapping realities we each construct, and the conflict they cause.",
+      "og_description": "The ungrounded, overlapping realities we each construct, and the conflict they cause.",
+      "title": "Overlapping Realities"
+    },
+    "pachinko-minds": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Our minds rattle through their pachinko (a Japanese vertical pinball game) path of development, bouncing this way and that.",
+          "rank": 580
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Our minds rattle through their pachinko (a Japanese vertical pinball game) path of development, bouncing this way and that.",
+          "rank": 380
+        }
+      },
+      "meta_description": "A short essay by Don Ray: our minds rattle through a pachinko path of development, shaped by chance and circumstance, yet the aggregate result is majestic.",
+      "og_description": "Our minds rattle through a pachinko path of development, shaped by chance and circumstance, yet the aggregate result is majestic.",
+      "title": "Pachinko Minds"
+    },
+    "painful-prayer": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Should prayer be difficult?",
+          "rank": 180
+        }
+      },
+      "meta_description": "A short essay by Don Ray on why contemplative prayer is a discipline rather than something easy and automatic.",
+      "og_description": "Why contemplative prayer is a discipline rather than something easy and automatic.",
+      "title": "Painful Prayer"
+    },
+    "palm-sunday-anti-climax": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "The world can’t help but notice the Christ, and aspects of the Christ, in whatever loving form they may appear.",
+          "rank": 260
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the world's fleeting, uncommitted glance at the Christ, endlessly repeated since that first Palm Sunday.",
+      "og_description": "The world's fleeting, uncommitted glance at the Christ, endlessly repeated since that first Palm Sunday.",
+      "title": "Palm Sunday Anti-Climax"
+    },
+    "personalized-scripture": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "I think back on this week’s Lectionary study group meeting.",
+          "rank": 200
+        }
+      },
+      "meta_description": "A short essay by Don Ray on a Lectionary study group, and why scripture's power lies in personal, not absolute, interpretation.",
+      "og_description": "A Lectionary study group, and why scripture's power lies in personal, not absolute, interpretation.",
+      "title": "Personalized Scripture"
+    },
+    "portal-of-your-soul": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Oh ye lost children, so busy with your plans.",
+          "rank": 80
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Oh ye lost children, so busy with your plans.",
+          "rank": 140
+        }
+      },
+      "meta_description": "A poem by Don Ray urging the lost and busy to listen, in the moments before sleep, for the music entering through the portal of the soul.",
+      "og_description": "Urging the lost and busy to listen, in the moments before sleep, for the music entering through the portal of the soul.",
+      "title": "Portal of Your Soul"
+    },
+    "powerless-triumph": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "We will never lack for kings and queens, by whatever title.",
+          "rank": 280
+        }
+      },
+      "meta_description": "A short essay by Don Ray on personal power as the antithesis of spiritual Unity, and the Lamb whose surrender of power set it free.",
+      "og_description": "Personal power as the antithesis of spiritual Unity, and the Lamb whose surrender of power set it free.",
+      "title": "Powerless Triumph"
+    },
+    "pray-alone-that-you-may-love-together": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Each element of consciousness, each individual soul, knows only that to which it gets exposed by its immediate experiences and that which it is told by the other people around it.",
+          "rank": 300
+        }
+      },
+      "meta_description": "A short essay by Don Ray on contemplative prayer as the way past the limits of our immediate community, so we can love more freely within it.",
+      "og_description": "Contemplative prayer as the way past the limits of our immediate community, so we can love more freely within it.",
+      "title": "Pray Alone, That You May Love Together"
+    },
+    "pre-dawn-ragged-blanket": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Turn from it, dampen the senses, pull a ragged blanket over awareness, like the homeless do on the cold nights in the park.",
+          "rank": 60
+        }
+      },
+      "meta_description": "A short reflective essay by Don Ray on tempering the overwhelming intensity of life, if only until dawn.",
+      "og_description": "Tempering the overwhelming intensity of life, if only until dawn.",
+      "title": "Pre-dawn Ragged Blanket"
+    },
+    "question-revealing-truth": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Each experiences the Christos by the name they were taught.",
+          "rank": 160,
+          "note": "Question Revealing Truth opens the explicitly religious part. \"Each experiences the Christos by the name they were taught\" introduces the word Christos before the essays that rely on it."
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the Christos each of us imprints on in childhood, and the heart's question that testifies to a shared Truth.",
+      "og_description": "The Christos each of us imprints on in childhood, and the heart's question that testifies to a shared Truth.",
+      "title": "Question Revealing Truth"
+    },
+    "reality-gap": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Human perception has little to do with reality. People will see what they expect to see.",
+          "rank": 220
+        }
+      },
+      "meta_description": "An essay by Don Ray on how expectation, not evidence, shapes what we see, and what that demands of us.",
+      "og_description": "How expectation, not evidence, shapes what we see, and what that demands of us.",
+      "title": "Reality Gap"
+    },
+    "recognizing-beauty": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "The creek is running! Barely, but running! Thank You, thank You, thank You for this symbol of the inexorable return of Life in spite of our destructiveness.",
+          "rank": 90
+        },
+        "spiritual-without-religion": {
+          "excerpt": "The creek is running! Barely, but running! Thank You, thank You, thank You for this symbol of the inexorable return of Life in spite of our destructiveness.",
+          "rank": 90,
+          "note": "Recognizing Beauty hands off to Seeing Through Our Dreams and Scars: \"Imagine seeing. Imagine wanting to see.\" is followed by \"What would I see?\""
+        }
+      },
+      "meta_description": "A short essay by Don Ray: a barely-running creek, a coyote concert, and the case that a cold indifference to Nature's beauty is companion to a cold indifference to humanity.",
+      "og_description": "A barely-running creek, a coyote concert, and the case that indifference to Nature's beauty is companion to indifference to humanity.",
+      "title": "Recognizing Beauty"
+    },
+    "ripples-in-time": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Does every event and action and choice leave an unending wake in the following universe?",
+          "rank": 390
+        }
+      },
+      "meta_description": "An essay by Don Ray on a dead insect on the back of his hand, and the unseen ripples every choice leaves in time.",
+      "og_description": "A dead insect on the back of his hand, and the unseen ripples every choice leaves in time.",
+      "title": "Ripples in Time"
+    },
+    "role-of-a-life-in-the-purpose-of-life": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "How are we to understand our roles in the unfolding Purpose and ongoing Creation?",
+          "rank": 370
+        }
+      },
+      "meta_description": "A short essay by Don Ray questioning whether one ordinary life can matter to God's unfolding Purpose.",
+      "og_description": "Questioning whether one ordinary life can matter to God's unfolding Purpose.",
+      "title": "Role of a Life in the Purpose of Life"
+    },
+    "save-the-world-a-little-later": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Peace. It is OK to take a moment off.",
+          "rank": 150
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Peace. It is OK to take a moment off.",
+          "rank": 150
+        }
+      },
+      "meta_description": "A short essay by Don Ray inviting the reader to a moment of rest — peace that can be carried back into the world, which will still be there to save.",
+      "og_description": "An invitation to a moment of rest — peace that can be carried back into the world, which will still be there to save.",
+      "title": "Save the World a Little Later"
+    },
+    "seeing-through-our-dreams-and-scars": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
+          "rank": 100
+        },
+        "spiritual-without-religion": {
+          "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
+          "rank": 100
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
+          "rank": 50
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
+          "rank": 30
+        }
+      },
+      "meta_description": "A meditation by Don Ray on what age and youth each distort, and on trusting a kind of seeing that doesn't depend on the eyes.",
+      "og_description": "What age and youth each distort, and on trusting a kind of seeing that doesn't depend on the eyes.",
+      "title": "Seeing Through Our Dreams and Scars"
+    },
+    "shadow-embrace": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "The embrace of shadows, welcoming home; mere projections of embrace, offering hints of the depths of connection.",
+          "rank": 170
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "The embrace of shadows, welcoming home; mere projections of embrace, offering hints of the depths of connection.",
+          "rank": 330
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "The embrace of shadows, welcoming home; mere projections of embrace, offering hints of the depths of connection.",
+          "rank": 120
+        }
+      },
+      "meta_description": "A poem by Don Ray on shadows as projections of a hidden perfection, awaiting the timeless merging of past and future.",
+      "og_description": "Shadows as projections of a hidden perfection, awaiting the timeless merging of past and future.",
+      "title": "Shadow Embrace"
+    },
+    "shock-prayer": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "God, help us. God, shock us.",
+          "rank": 170
+        }
+      },
+      "meta_description": "A one-paragraph prayer by Don Ray asking to be shocked out of complacency and the status quo.",
+      "og_description": "A brief prayer asking to be shocked out of complacency and the status quo.",
+      "title": "Shock Prayer"
+    },
+    "silken-tide": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "The ebb and flow of Presence is too gentle, too soft, to intrude upon our noises and plans. It slips in and out of the lagoons of morning light as a silken tide.",
+          "rank": 30
+        },
+        "spiritual-with-religion": {
+          "excerpt": "The ebb and flow of Presence is too gentle, too soft, to intrude upon our noises and plans. It slips in and out of the lagoons of morning light as a silken tide.",
+          "rank": 10
+        },
+        "spiritual-without-religion": {
+          "excerpt": "The ebb and flow of Presence is too gentle, too soft, to intrude upon our noises and plans. It slips in and out of the lagoons of morning light as a silken tide.",
+          "rank": 10,
+          "note": "Silken Tide opens: \"too gentle, too soft, to intrude upon our noises and plans\". This is exactly the lede's \"sacred noticed in ordinary moments\"."
+        }
+      },
+      "meta_description": "A short essay by Don Ray: the ebb and flow of Presence, too gentle to intrude on our noises and plans, slipping in and out like a silken tide.",
+      "og_description": "The ebb and flow of Presence, too gentle to intrude on our noises and plans, slipping in and out like a silken tide.",
+      "title": "Silken Tide"
+    },
+    "small-world": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
+          "rank": 230
+        },
+        "spiritual-with-religion": {
+          "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
+          "rank": 110
+        },
+        "spiritual-without-religion": {
+          "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
+          "rank": 110
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
+          "rank": 60
+        }
+      },
+      "meta_description": "A short essay by Don Ray on how the felt size of the world, and the weight of our judgments, are really just reflections of our own perspective.",
+      "og_description": "How the felt size of the world, and the weight of our judgments, are really just reflections of our own perspective.",
+      "title": "Small World"
+    },
+    "soul-music-i": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "A young mind exposed to something new…may be a little changed by this musical exposure, and a little changed mind can change the world.",
+          "rank": 10
+        }
+      },
+      "meta_description": "A short essay by Don Ray on children hearing live music for the first time, and the change it might plant.",
+      "og_description": "Children hearing live music for the first time, and the change it might plant.",
+      "title": "Soul Music I"
+    },
+    "soul-music-ii": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Let the music of our souls ring forth, and let us give thanks to the composers and musicians that provide the channel for that connection.",
+          "rank": 20
+        }
+      },
+      "meta_description": "An essay by Don Ray on musical instruments and musicians as engineers building bridges between souls.",
+      "og_description": "Musical instruments and musicians as engineers building bridges between souls.",
+      "title": "Soul Music II"
+    },
+    "spark-of-progress": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Listen to that spark of humanity within you that does not fear creativity and progress and change.",
+          "rank": 470
+        }
+      },
+      "meta_description": "An essay by Don Ray on the rare sparks of human potential that occasionally overcome fear and prejudice.",
+      "og_description": "The rare sparks of human potential that occasionally overcome fear and prejudice.",
+      "title": "Spark of Progress"
+    },
+    "stop-for-a-moment": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "There is good reason mystics seclude themselves in monastic retreats.",
+          "rank": 130
+        },
+        "spiritual-without-religion": {
+          "excerpt": "There is good reason mystics seclude themselves in monastic retreats.",
+          "rank": 120
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the lost riches of quiet and stillness, and how busyness has crowded out awareness of the greater Self.",
+      "og_description": "The lost riches of quiet and stillness, and how busyness has crowded out awareness of the greater Self.",
+      "title": "Stop for a Moment"
+    },
+    "storm-of-creation": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
+          "rank": 130
+        },
+        "spiritual-with-religion": {
+          "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
+          "rank": 510
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
+          "rank": 290
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
+          "rank": 240,
+          "note": "Storm of Creation leads into Dark Matter: creation as a storm, then stars ignited by the violence of the universe."
+        },
+        "transcendent-conversations-and-vision": {
+          "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
+          "rank": 90
+        }
+      },
+      "meta_description": "A poem by Don Ray: creation, like a storm, arrives as disruption — turn and face it, and let it in.",
+      "og_description": "Creation, like a storm, arrives as disruption — turn and face it, and let it in.",
+      "title": "Storm of Creation"
+    },
+    "stream-of-consciousness": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "There is of course only consciousness.",
+          "rank": 560
+        },
+        "spiritual-without-religion": {
+          "excerpt": "There is of course only consciousness.",
+          "rank": 340
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "There is of course only consciousness.",
+          "rank": 150
+        }
+      },
+      "meta_description": "A short essay by Don Ray: there is only consciousness, flowing through a physical world that exists to connect us to each other and to the Whole.",
+      "og_description": "There is only consciousness, flowing through a physical world that exists to connect us to each other and to the Whole.",
+      "title": "Stream of Consciousness"
+    },
+    "successful-disaster": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Worldly disasters entangled with spiritual miracles….that’s about the best you can hope for in following the Spirit and Purpose.",
+          "rank": 320
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Worldly disasters entangled with spiritual miracles….that’s about the best you can hope for in following the Spirit and Purpose.",
+          "rank": 180
+        }
+      },
+      "meta_description": "A short essay by Don Ray: worldly disasters entangled with spiritual miracles, and grandiose plans slowly waning in submission to The Grandiose Plan.",
+      "og_description": "Worldly disasters entangled with spiritual miracles, and grandiose plans slowly waning in submission to The Grandiose Plan.",
+      "title": "Successful Disaster"
+    },
+    "summary-of-life": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "What would I tell anyone? What would I tell myself?",
+          "rank": 80
+        }
+      },
+      "meta_description": "A short essay by Don Ray: the realistic graduation speech no one gives, and the freedom hidden inside life's constraints.",
+      "og_description": "The realistic graduation speech no one gives, and the freedom hidden inside life's constraints.",
+      "title": "Summary of Life"
+    },
+    "symphony-of-chance": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Hear the chimes, that penetrating sound, the sound of wind instantiated.",
+          "rank": 60
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Hear the chimes, that penetrating sound, the sound of wind instantiated.",
+          "rank": 390,
+          "note": "Symphony of Chance hands off to Bridges of Sound and Light: chimes, then music as a bridge between souls."
+        }
+      },
+      "meta_description": "A poem by Don Ray on chimes struck by chance, each tone perfect in itself, composing a symphony no one performs.",
+      "og_description": "Chimes struck by chance, each tone perfect in itself, composing a symphony no one performs.",
+      "title": "Symphony of Chance"
+    },
+    "syrian-ceasefire": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Ceasefire…opening the door to the Choice, the Choice we all make every day.",
+          "rank": 290
+        }
+      },
+      "meta_description": "An essay by Don Ray written in the minutes surrounding a declared Syrian ceasefire, on the choice it represents.",
+      "og_description": "Written in the minutes surrounding a declared Syrian ceasefire, on the choice it represents.",
+      "title": "Syrian Ceasefire"
+    },
+    "temporally-senseless": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Maybe after recent thefts I better understand Yeshu (Jesus) saying “the guy takes your cloak, give him your coat too”.",
+          "rank": 230
+        }
+      },
+      "meta_description": "A short essay by Don Ray on Yeshu's radical teachings, and how the eternal and the temporal make no sense in each other's terms.",
+      "og_description": "Yeshu's radical teachings, and how the eternal and the temporal make no sense in each other's terms.",
+      "title": "Temporally Senseless"
+    },
+    "terlingua": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Terlingua can't afford the luxury of pretense.",
+          "rank": 40
+        }
+      },
+      "meta_description": "A short essay by Don Ray on a Texas ghost town's cemetery, church, and store, and the honesty of a place with no pretense.",
+      "og_description": "A Texas ghost town's cemetery, church, and store, and the honesty of a place with no pretense.",
+      "title": "Terlingua"
+    },
+    "terrifying-passage-from-the-garden-to-the-kindom": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Imagine what existence would be like without fear and pain.",
+          "rank": 400
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Imagine what existence would be like without fear and pain.",
+          "rank": 190
+        }
+      },
+      "meta_description": "A short essay by Don Ray imagining existence without fear or pain, and what that reveals about what fear and pain make possible in us.",
+      "og_description": "Imagining existence without fear or pain, and what that reveals about what fear and pain make possible in us.",
+      "title": "Terrifying Passage from the Garden to the Kin'dom"
+    },
+    "that-person-next-to-you": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Inter-human interactions….. no experience comes closer to knowing God. No experience can so promptly and radically drive us away from all that is holy.",
+          "rank": 610
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Inter-human interactions….. no experience comes closer to knowing God. No experience can so promptly and radically drive us away from all that is holy.",
+          "rank": 420
+        }
+      },
+      "meta_description": "A poem by Don Ray: no experience comes closer to knowing God than an inter-human interaction, none can drive us further away.",
+      "og_description": "No experience comes closer to knowing God than an inter-human interaction, none can drive us further away.",
+      "title": "That Person Next to You"
+    },
+    "the-bass-voice-of-god": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Why would God need masks or altars or guilt or amplifiers to reach us?",
+          "rank": 310
+        },
+        "spiritual-with-religion": {
+          "excerpt": "Why would God need masks or altars or guilt or amplifiers to reach us?",
+          "rank": 630
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Why would God need masks or altars or guilt or amplifiers to reach us?",
+          "rank": 440
+        }
+      },
+      "meta_description": "A short essay by Don Ray questioning why God would need masks, altars, guilt, or amplifiers to reach us, and who is really being called by the bass voice of a subwoofer.",
+      "og_description": "Questioning why God would need masks, altars, guilt, or amplifiers to reach us, and who is really being called.",
+      "title": "The Bass Voice of God"
+    },
+    "the-curse-of-approval": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "How many triggers have been pulled, lies marketed, and forests bulldozed in order to gain approval of an officer, boss, or owner?",
+          "rank": 80
+        }
+      },
+      "meta_description": "An essay by Don Ray on the hunger for approval that drives so much of what we do, and the cat's example of not caring.",
+      "og_description": "The hunger for approval that drives so much of what we do, and the cat's example of not caring.",
+      "title": "The Curse of Approval"
+    },
+    "the-death-of-personal-growth": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "But personal growth requires change, and change is a form of death of our existing self.",
+          "rank": 310
+        },
+        "spiritual-without-religion": {
+          "excerpt": "But personal growth requires change, and change is a form of death of our existing self.",
+          "rank": 170
+        }
+      },
+      "meta_description": "A short essay by Don Ray: personal growth requires change, and change is a form of death of our existing self.",
+      "og_description": "Personal growth requires change, and change is a form of death of our existing self.",
+      "title": "The Death of Personal Growth"
+    },
+    "the-fledging-of-downy-woodpeckers": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Everything encompassed in this moment, the entire universe, all Life, all right here, right now, an eternal now.",
+          "rank": 350
+        }
+      },
+      "meta_description": "A field-journal essay by Don Ray on watching four downy woodpecker chicks fledge, one anxious flight at a time.",
+      "og_description": "Watching four downy woodpecker chicks fledge, one anxious flight at a time.",
+      "title": "The Fledging of Downy Woodpeckers"
+    },
+    "the-inevitable-and-the-certain": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "In this world the balance required to maintain the Choice (necessary for the creation of pure Love) means that that which is holy and pure will inevitably come to disaster.",
+          "rank": 270
+        }
+      },
+      "meta_description": "A short essay by Don Ray: the holy and pure will inevitably be sullied in this world, but Resurrection in its many forms is just as certain.",
+      "og_description": "The holy and pure will inevitably be sullied in this world, but Resurrection in its many forms is just as certain.",
+      "title": "The Inevitable and the Certain"
+    },
+    "the-scrum-of-perfection": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Life is a scrum, an unfair – odds stacked – guaranteed to lose – struggle….and from the grime and blood and dung arise the Light of Beauty and glimpses of Love.",
+          "rank": 440
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Life is a scrum, an unfair – odds stacked – guaranteed to lose – struggle….and from the grime and blood and dung arise the Light of Beauty and glimpses of Love.",
+          "rank": 230
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Life is a scrum, an unfair – odds stacked – guaranteed to lose – struggle….and from the grime and blood and dung arise the Light of Beauty and glimpses of Love.",
+          "rank": 200
+        }
+      },
+      "meta_description": "A short essay by Don Ray: life as an unfair scrum from which the Light of Beauty and Love still arise.",
+      "og_description": "Life as an unfair scrum from which the Light of Beauty and Love still arise.",
+      "title": "The Scrum of Perfection"
+    },
+    "three-principles": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Were we to boil everything down to three principles:",
+          "rank": 650
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Were we to boil everything down to three principles:",
+          "rank": 460
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Were we to boil everything down to three principles:",
+          "rank": 320
+        }
+      },
+      "meta_description": "A short essay by Don Ray distilling faith and practice down to three guiding principles: unity, embodied worship, and the underlying force of Love.",
+      "og_description": "Distilling faith and practice down to three guiding principles: unity, embodied worship, and the underlying force of Love.",
+      "title": "Three Principles"
+    },
+    "tracer-bullets-over-your-life-path": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "It is a dodging, ducking, diving, desperate tumbling scramble under tracer bullets through smoke and fire and shell craters.",
+          "rank": 460
+        }
+      },
+      "meta_description": "A short essay by Don Ray on following your life's path as scrambling forward under tracer bullets, not marching in lockstep.",
+      "og_description": "Following your life's path as scrambling forward under tracer bullets, not marching in lockstep.",
+      "title": "Tracer Bullets Over Your Life-Path"
+    },
+    "trust-your-robot": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "All the while we just need to listen to each other.",
+          "rank": 140
+        }
+      },
+      "meta_description": "A short essay by Don Ray on empathy robots, and our desperation to be heard by anyone, or anything, that will listen.",
+      "og_description": "Empathy robots, and our desperation to be heard by anyone, or anything, that will listen.",
+      "title": "Trust Your Robot"
+    },
+    "truth-any-takers": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "Infinite and eternal Truth…. funny how we do not expect it to be relevant, or do we not expect it to exist?",
+          "rank": 200
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Infinite and eternal Truth…. funny how we do not expect it to be relevant, or do we not expect it to exist?",
+          "rank": 470
+        }
+      },
+      "meta_description": "A poem by Don Ray on all the reasons we talk ourselves out of wanting eternal Truth delivered to our doorstep.",
+      "og_description": "All the reasons we talk ourselves out of wanting eternal Truth delivered to our doorstep.",
+      "title": "Truth.....Any Takers?"
+    },
+    "unlocked-door-of-our-solitary-confinement": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "Where am I in all this writing? I fear I am at the center.",
+          "rank": 540
+        },
+        "spiritual-without-religion": {
+          "excerpt": "Where am I in all this writing? I fear I am at the center.",
+          "rank": 320
+        }
+      },
+      "meta_description": "A short essay by Don Ray: the little self dancing alone in solitary confinement, until consciousness begins to incorporate someone or something else.",
+      "og_description": "The little self dancing alone in solitary confinement, until consciousness begins to incorporate someone or something else.",
+      "title": "Unlocked Door of our Solitary Confinement"
+    },
+    "unnatural-peace": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "Longing for Peace, a whispering hint of the nature and potential of our souls.",
+          "rank": 440
+        }
+      },
+      "meta_description": "An essay by Don Ray on peace as an unnatural, evolutionarily inexplicable longing worth trusting anyway.",
+      "og_description": "Peace as an unnatural, evolutionarily inexplicable longing worth trusting anyway.",
+      "title": "Unnatural Peace"
+    },
+    "whats-left-after-conforming": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "There is a curious purity in being purely one’s self and getting lost in the Purpose.",
+          "rank": 90
+        }
+      },
+      "meta_description": "A short essay by Don Ray on the tension between being true to yourself and getting by in the world, and what's left once you subtract the conforming.",
+      "og_description": "The tension between being true to yourself and getting by in the world, and what's left once you subtract the conforming.",
+      "title": "What's Left After Conforming"
+    },
+    "whispering-hope": {
+      "memberships": {
+        "observations-of-human-life": {
+          "excerpt": "There is only Hope, the same Hope of the ages born out of darkest persecutions, the timeless Hope that rises from bloodiest crucifixions.",
+          "rank": 430
+        }
+      },
+      "meta_description": "An essay by Don Ray on the noise of the modern world, and the enduring, whispering Hope beneath it.",
+      "og_description": "The noise of the modern world, and the enduring, whispering Hope beneath it.",
+      "title": "Whispering Hope"
+    },
+    "winning-with-the-stacked-deck-of-life": {
+      "memberships": {
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "Don’t we all wish we were different?",
+          "rank": 100
+        }
+      },
+      "meta_description": "An essay by Don Ray on the cards we're dealt in body, mind, and emotion, and the freedom we still have in how we choose to play them.",
+      "og_description": "The cards we're dealt in body, mind, and emotion, and the freedom we still have in how we choose to play them.",
+      "title": "Winning with the Stacked Deck of Life"
+    },
+    "worship": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "It is of course worship, desperate, frantic, clinging worship. It is worship of a memory, a past and prescient and present memory, a memory ineffable.",
+          "rank": 190
+        },
+        "spiritual-with-religion": {
+          "excerpt": "It is of course worship, desperate, frantic, clinging worship. It is worship of a memory, a past and prescient and present memory, a memory ineffable.",
+          "rank": 640
+        },
+        "spiritual-without-religion": {
+          "excerpt": "It is of course worship, desperate, frantic, clinging worship. It is worship of a memory, a past and prescient and present memory, a memory ineffable.",
+          "rank": 450
+        }
+      },
+      "meta_description": "A poem by Don Ray: worship stripped of totems and liturgy — alone, honest, and directed at the questions themselves.",
+      "og_description": "Worship stripped of totems and liturgy — alone, honest, and directed at the questions themselves.",
+      "title": "Worship"
+    },
+    "would-we-miss-death": {
+      "memberships": {
+        "spiritual-with-religion": {
+          "excerpt": "What would we do without the immense overhead of our physical maintenance?",
+          "rank": 390
+        },
+        "spiritual-without-religion": {
+          "excerpt": "What would we do without the immense overhead of our physical maintenance?",
+          "rank": 220
+        },
+        "structure-of-the-purpose-and-destiny-of-life": {
+          "excerpt": "What would we do without the immense overhead of our physical maintenance?",
+          "rank": 180
+        }
+      },
+      "meta_description": "A short essay by Don Ray imagining a life without demands or death, and asking what that would reveal about who we really are.",
+      "og_description": "Imagining a life without demands or death, and asking what that would reveal about who we really are.",
+      "title": "Would We Miss Death"
+    },
+    "you-will-be-touched": {
+      "memberships": {
+        "poetry": {
+          "excerpt": "The human spirit, or is it soul, or do we have no name for it, something individual, something lost, or was it forgotten?",
+          "rank": 140
+        },
+        "spiritual-with-religion": {
+          "excerpt": "The human spirit, or is it soul, or do we have no name for it, something individual, something lost, or was it forgotten?",
+          "rank": 550
+        },
+        "spiritual-without-religion": {
+          "excerpt": "The human spirit, or is it soul, or do we have no name for it, something individual, something lost, or was it forgotten?",
+          "rank": 330
+        }
+      },
+      "meta_description": "A poem by Don Ray assuring the distant and defended reader that Love will find them, gently, in its own time.",
+      "og_description": "Assuring the distant and defended reader that Love will find them, gently, in its own time.",
+      "title": "You Will Be Touched"
+    }
+  },
+  "homepage_recent": [
+    "breeze-of-mystery",
+    "no-time-for-grief",
+    "freedom-from-opportunity"
+  ],
+  "_about_ordering": "Authoritative ordering record for the website and the books (author decision, Oct 18, 2026). Within each category, essays sort by rank. categories[slug].arcs names the groups (chapter headings), each starting at the essay given in starts_at; ordering_notes and memberships[...].note record the reasons for the order (from the approved Category Ordering Review, Oct 18, 2026).",
+  "_about_category_names": "Since Oct 19, 2026 each category's label is also the name used in the CATEGORIES: header of Drive files. Older files may still use the former descriptive names listed in former_header_names; treat them as the same category. The Foundation label has a no-break space before each en dash so a dash never starts a line.",
+  "site_launched": "2026-10-21",
+  "_about_feed": "feed.xml dates each essay by essays[slug].added (YYYY-MM-DD) if present, otherwise by site_launched (the day the site went live; approximate). Give every newly added essay an 'added' date."
+}

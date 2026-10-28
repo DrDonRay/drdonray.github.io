@@ -170,6 +170,7 @@ main { display: block; }
   font-size: 0.82rem;
 }
 .site-footer a { color: var(--ink-faint); }
+.site-footer nav { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; }
 .site-footer a:hover { color: var(--accent); }
 
 /* ---------- Hero (homepage) ---------- */
@@ -528,3 +529,11 @@ article.essay-body li:last-child { margin-bottom: 0; }
   .essay-nav { grid-template-columns: 1fr; }
   .essay-nav .nav-cell.next { text-align: left; align-items: flex-start; }
 }
+
+/* "Page not found" page (Oct 25, 2026) */
+.not-found-links { font-family: "Inter", sans-serif; font-size: 0.95rem; margin-top: 1.5rem; }
+.not-found-links a { color: var(--accent); }
+.not-found-links .sep { margin: 0 0.7em; color: var(--ink-faint); }
+
+/* Copyright and sharing notice in the footer (Oct 25, 2026) */
+.footer-notice { max-width: 34rem; line-height: 1.5; }
