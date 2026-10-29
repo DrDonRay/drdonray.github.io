@@ -16,9 +16,26 @@ Unzip the whole folder first (don't open `index.html` from inside the zip — th
 - **Seeing Life** (47 essays) — live
 - **Poetry** (21 poems) — live
 
-(Category names as of Oct 19, 2026. The page URLs keep the original slugs, for example `categories/spiritual-without-religion.html`, so existing links keep working.)
+(Category names as of Oct 19, 2026. Since Oct 29, 2026 the page addresses match the names, for example `categories/the-nameless-spiritual.html`; the former addresses forward to the new ones.)
 
 **All seven categories are now built.** Poetry was intentionally built last, once its compilation was finalized through the separate essay-editing pipeline (Uploaded material → Editing proposals → author review → Finalized material), so it wouldn't need to be rebuilt mid-stream. With Poetry live, every category on the site's plan now has a page.
+
+## Update of October 29, 2026: category addresses match the category names
+
+At the author's request, five category pages moved to addresses that match their current names (Poetry and Personal Perspective already did):
+
+| Category | New address | Former address |
+| --- | --- | --- |
+| Seeing Life | `categories/seeing-life.html` | `categories/observations-of-human-life.html` |
+| Foundation – Purpose – Meaning – Destiny | `categories/foundation-purpose-meaning-destiny.html` | `categories/structure-of-the-purpose-and-destiny-of-life.html` |
+| The Nameless Spiritual | `categories/the-nameless-spiritual.html` | `categories/spiritual-without-religion.html` |
+| Naming the Spiritual | `categories/naming-the-spiritual.html` | `categories/spiritual-with-religion.html` |
+| Transcendence | `categories/transcendence.html` | `categories/transcendent-conversations-and-vision.html` |
+
+- Every link on the site, the sitemap and the feed use the new addresses. The pages themselves are unchanged apart from their address.
+- Each former address is now a tiny redirect page, generated from `categories[slug].former_slugs` in the manifest. It forwards at once (an instant meta refresh, which Google treats as a permanent redirect, plus a canonical link, a script and a plain link), so old bookmarks, shared links and search results keep working. Keep these files.
+- In the manifest, the five category keys (and every essay's membership keys) were renamed to the new slugs. `CATEGORY_CARD_ORDER` in the generator was updated, and the validator now takes its category list from the manifest. The validator also checks that each redirect page exists and points to the right page, that no page still links to a former address, and that `categories/` holds nothing unexpected.
+- Done before Google had indexed the category pages, so the change costs nothing in search.
 
 ## Update of October 25, 2026 (later): sharing notice
 
@@ -206,11 +223,12 @@ robots.txt
 categories/
   index.html                                  (all 7 categories, all live)
   personal-perspective.html
-  transcendent-conversations-and-vision.html
-  structure-of-the-purpose-and-destiny-of-life.html
-  spiritual-without-religion.html
-  spiritual-with-religion.html
-  observations-of-human-life.html
+  transcendence.html
+  foundation-purpose-meaning-destiny.html
+  the-nameless-spiritual.html
+  naming-the-spiritual.html
+  seeing-life.html
+  (plus one small redirect page under each former address, e.g. spiritual-without-religion.html; keep them)
   poetry.html
 essays/
   at-the-ranch.html

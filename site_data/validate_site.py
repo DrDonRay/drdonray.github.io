@@ -13,9 +13,9 @@ CAT_DIR = os.path.join(SITE, "categories")
 ESSAY_DIR = os.path.join(SITE, "essays")
 MANIFEST = os.path.join(SITE, "site_data", "manifest.json")
 
-CATS = ["personal-perspective", "transcendent-conversations-and-vision",
-        "structure-of-the-purpose-and-destiny-of-life", "spiritual-without-religion",
-        "spiritual-with-religion", "observations-of-human-life", "poetry"]
+with open(MANIFEST, encoding="utf-8") as _f:
+    _M = json.load(_f)
+CATS = _M["category_order"]  # canonical order; slugs match the category names since Oct 29, 2026
 
 errors = []
 warnings = []
@@ -196,8 +196,32 @@ import glob
 for page in [os.path.join(SITE, "index.html"), os.path.join(SITE, "search.html"), os.path.join(SITE, "404.html")] + \
             glob.glob(os.path.join(CAT_DIR, "*.html")) + glob.glob(os.path.join(ESSAY_DIR, "*.html")):
     t = read(page) if os.path.exists(page) else ""
+    if "redirect-stub" in t:
+        continue
     if t.count('rel="license"') != 2:
         err(f"{os.path.relpath(page, SITE)}: missing the license link in <head> or the sharing notice in the footer")
+
+# ---- redirects from former category addresses (Oct 29, 2026) ----
+cat_files = {os.path.basename(p)[:-5] for p in glob.glob(os.path.join(CAT_DIR, "*.html"))}
+expected_stubs = {}
+for slug, cat in _M["categories"].items():
+    for old in cat.get("former_slugs", []):
+        expected_stubs[old] = slug
+for old, new in expected_stubs.items():
+    p = os.path.join(CAT_DIR, f"{old}.html")
+    t = read(p) if os.path.exists(p) else ""
+    if "redirect-stub" not in t or f'url={new}.html"' not in t or f'href="https://drdonray.github.io/categories/{new}.html"' not in t:
+        err(f"categories/{old}.html should be a redirect to {new}.html")
+stray = cat_files - set(CATS) - set(expected_stubs) - {"index"}
+if stray:
+    err(f"unexpected page(s) in categories/: {sorted(stray)}")
+for page in glob.glob(os.path.join(SITE, "**", "*.html"), recursive=True):
+    if "/.git/" in page or "redirect-stub" in read(page):
+        continue
+    for old in expected_stubs:
+        if f"categories/{old}.html" in read(page):
+            err(f"{os.path.relpath(page, SITE)} still links to the former address categories/{old}.html")
+            break
 
 # ---- report ----
 print(f"Checked {len(all_essay_files)} essay pages, {len(CATS)} category pages.")

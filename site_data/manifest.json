@@ -1,6 +1,6 @@
 {
   "categories": {
-    "observations-of-human-life": {
+    "seeing-life": {
       "label": "Seeing Life",
       "blurb": "Harshness, beauty, despair, Hope.",
       "lede": "Harshness, beauty, despair, Hope.",
@@ -46,6 +46,9 @@
       ],
       "former_header_names": [
         "Observations of human life"
+      ],
+      "former_slugs": [
+        "observations-of-human-life"
       ]
     },
     "personal-perspective": {
@@ -104,7 +107,7 @@
         "Poetry"
       ]
     },
-    "spiritual-with-religion": {
+    "naming-the-spiritual": {
       "label": "Naming the Spiritual",
       "blurb": "Unorthodox perspectives of realistic faith.",
       "lede": "Unorthodox perspectives of realistic faith.",
@@ -154,9 +157,12 @@
       ],
       "former_header_names": [
         "Spiritual with mention of religion"
+      ],
+      "former_slugs": [
+        "spiritual-with-religion"
       ]
     },
-    "spiritual-without-religion": {
+    "the-nameless-spiritual": {
       "label": "The Nameless Spiritual",
       "blurb": "An essay journey launched in ordinary moments, carried by tides and winds of life’s storms, finally landing in the Light of Mystery.",
       "lede": "An essay journey launched in ordinary moments, carried by tides and winds of life’s storms, finally landing in the Light of Mystery.",
@@ -193,9 +199,12 @@
       ],
       "former_header_names": [
         "Spiritual, without overt mention of religion"
+      ],
+      "former_slugs": [
+        "spiritual-without-religion"
       ]
     },
-    "structure-of-the-purpose-and-destiny-of-life": {
+    "foundation-purpose-meaning-destiny": {
       "label": "Foundation – Purpose – Meaning – Destiny",
       "blurb": "The architecture underneath it all — why we're here, and where it's going.",
       "lede": "This physical life is after all merely a parable, a corporeal telling of a tale with meanings disguised, a momentary riddle condensing truths eternal. Thirty-four essays and poems, moving from small scenes in Nature and the shape of a single life, through the structure beneath it — Choice, consciousness, and why this world holds so much madness — toward the place of Light that awaits.",
@@ -235,9 +244,12 @@
       ],
       "former_header_names": [
         "Structure of the purpose and destiny of life"
+      ],
+      "former_slugs": [
+        "structure-of-the-purpose-and-destiny-of-life"
       ]
     },
-    "transcendent-conversations-and-vision": {
+    "transcendence": {
       "label": "Transcendence",
       "blurb": "Futile attempts to capture the ineffable.",
       "lede": "Futile attempts to capture the ineffable.",
@@ -270,22 +282,25 @@
       ],
       "former_header_names": [
         "Transcendent conversations and vision"
+      ],
+      "former_slugs": [
+        "transcendent-conversations-and-vision"
       ]
     }
   },
   "category_order": [
     "personal-perspective",
-    "transcendent-conversations-and-vision",
-    "structure-of-the-purpose-and-destiny-of-life",
-    "spiritual-without-religion",
-    "spiritual-with-religion",
-    "observations-of-human-life",
+    "transcendence",
+    "foundation-purpose-meaning-destiny",
+    "the-nameless-spiritual",
+    "naming-the-spiritual",
+    "seeing-life",
     "poetry"
   ],
   "essays": {
     "a-higher-perspective": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "The ants flew this morning on their colony’s annual matrimonial breeding flight!",
           "rank": 70,
           "note": "A Higher Perspective is the hinge out of the Nature pieces. The alate on the T-shirt raises the question outright: \"if we can ask the question must there necessarily be an answer?\""
@@ -297,7 +312,7 @@
     },
     "accept-what-you-want": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Why do we not get answers? Why do we have to invest time in contemplative prayer if we want a little conscious experience of Communion with God?",
           "rank": 190
         }
@@ -308,7 +323,7 @@
     },
     "alate-assist": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Let life rise, let us all rise, and let us be for each other the aid and uplifting to allow bodies and spirits to soar.",
           "rank": 380,
           "note": "Alate Assist hands off to Ripples in Time: a winged ant lifted into flight, then an insect falling dead onto the author's hand."
@@ -320,11 +335,11 @@
     },
     "alternative-path-home": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "So upset is that little squirrel on the utility pole.",
           "rank": 70
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "So upset is that little squirrel on the utility pole.",
           "rank": 70
         }
@@ -339,7 +354,7 @@
           "excerpt": "What’s left, when every plan has failed? What remains after every hope is dashed?",
           "rank": 110
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "What’s left, when every plan has failed? What remains after every hope is dashed?",
           "rank": 50
         }
@@ -350,7 +365,7 @@
     },
     "antithetical-societal-solution": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Contemplation is the anti-quick fix, the anti-instant gratification, the anti-productivity… Contemplation/prayer could not be more antithetical to modern society.",
           "rank": 100,
           "note": "Antithetical Societal Solution hands off to Digital Storm: \"the boss, cell-phone, next episode, next tweet … erect the bars\"."
@@ -362,11 +377,11 @@
     },
     "apprenticed-to-god": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Oh, to not be productive, to be liberated from the need to be productive!",
           "rank": 530
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Oh, to not be productive, to be liberated from the need to be productive!",
           "rank": 280
         }
@@ -377,7 +392,7 @@
     },
     "artificial-intelligence-and-real-stupidity": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Artificial intelligence will be no match for real stupidity.",
           "rank": 180
         }
@@ -392,15 +407,15 @@
           "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
           "rank": 10
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
           "rank": 30
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
           "rank": 30
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "One of the two big black horses was nuzzling the little pigs this morning, on and on before he knew I was watching, licking and grooming, the two little pigs together.",
           "rank": 10
         }
@@ -411,15 +426,15 @@
     },
     "beauty-in-the-madness": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "On a recent sunrise contemplative walk, I experienced a most curious peaceful insight.",
           "rank": 460
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "On a recent sunrise contemplative walk, I experienced a most curious peaceful insight.",
           "rank": 250
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "On a recent sunrise contemplative walk, I experienced a most curious peaceful insight.",
           "rank": 210
         }
@@ -430,7 +445,7 @@
     },
     "blanket-man": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Was there security under those blankets? Was there ever a smile under those blankets?",
           "rank": 50
         }
@@ -441,7 +456,7 @@
     },
     "boring-angels": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Relationships with angels lack reciprocity. You cannot help the angel.",
           "rank": 210
         }
@@ -456,11 +471,11 @@
           "excerpt": "Pure poetry, of course we need pure poetry. To capture the Mystery prose cannot suffice.",
           "rank": 40
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Pure poetry, of course we need pure poetry. To capture the Mystery prose cannot suffice.",
           "rank": 20
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Pure poetry, of course we need pure poetry. To capture the Mystery prose cannot suffice.",
           "rank": 20
         }
@@ -471,19 +486,19 @@
     },
     "bridges-of-sound-and-light": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
           "rank": 30
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
           "rank": 590
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
           "rank": 400
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Sound and light, this stuff that serves as the tenuous connection among souls, this flimsy bridge we struggle to refine and craft and carve and polish, then call it “art”.",
           "rank": 290
         }
@@ -494,7 +509,7 @@
     },
     "childish-questions": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "The curiosity and incredulity and bafflement and criticism with which children view our human world are exquisitely justified.",
           "rank": 70
         }
@@ -505,7 +520,7 @@
     },
     "collapse-of-worldly-wisdom": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "In moments of fear and panic and distress our worldly wisdom breaks down and we are left without a clear course of action.",
           "rank": 350
         }
@@ -516,7 +531,7 @@
     },
     "combat-and-compassion": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "People are generally as programmed in their behavior as any cat or dog.",
           "rank": 470,
           "note": "Combat and Compassion leads into Conveniently Rational Munitions: \"a Creation based on claw and combat\" giving rise to Love, then the engine of cruelty that still yields \"a spark of compassion\"."
@@ -528,7 +543,7 @@
     },
     "contact-eternity": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Take your life seriously. Take every contact seriously. Take every interaction seriously, for they are each profound, enduring, eternal.",
           "rank": 400
         }
@@ -543,11 +558,11 @@
           "excerpt": "The world, unremittingly harsh. The world, unchangeable.",
           "rank": 100
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "The world, unremittingly harsh. The world, unchangeable.",
           "rank": 480
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "The world, unremittingly harsh. The world, unchangeable.",
           "rank": 260
         }
@@ -558,11 +573,11 @@
     },
     "conversation-with-an-angel": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "“Fear not” is the most common admonition/directive/command in the Bible, appearing dozens of times, by some counts more than a hundred.",
           "rank": 220
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "“Fear not” is the most common admonition/directive/command in the Bible, appearing dozens of times, by some counts more than a hundred.",
           "rank": 160,
           "note": "Save the World hands off to Conversation with an angel: \"'fear not' if you can believe that\" is followed by \"Fear not? Are you flippin' crazy?!\""
@@ -574,7 +589,7 @@
     },
     "coyote-creation": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "There are no answers in this scene, at least none I can yet understand. But there is sublime ineffable beauty, Purpose evident even though inscrutable.",
           "rank": 340
         }
@@ -585,7 +600,7 @@
     },
     "coyote-tales-and-red-moon-omen": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "The moon was a sickly red last night high in the sky, an ominous portent from many fires.",
           "rank": 360
         }
@@ -596,15 +611,15 @@
     },
     "crumbling-temples-crumbling-lessons": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "In each of those Roman temples we now see as ruins there had to be a last priest of that cult.",
           "rank": 300
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "In each of those Roman temples we now see as ruins there had to be a last priest of that cult.",
           "rank": 620
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "In each of those Roman temples we now see as ruins there had to be a last priest of that cult.",
           "rank": 430
         }
@@ -627,19 +642,19 @@
     },
     "currency-of-the-soul": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
           "rank": 140
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
           "rank": 130
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
           "rank": 310
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "Shadows race down the hill toward our lives, making it all the more imperative to soak up the sunshine.",
           "rank": 40
         }
@@ -650,7 +665,7 @@
     },
     "cynical-encouragement": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "There is some good in the world, and it needs all the encouragement it can get.",
           "rank": 420
         }
@@ -661,7 +676,7 @@
     },
     "dark-matter-and-the-light-of-love": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Human society is a chaos of suffering and misery and injustice and violence.",
           "rank": 250
         }
@@ -677,15 +692,15 @@
           "rank": 40,
           "note": "Deer and Coyotes now follows Frantic. Its second half (\"universes of conscious experience … overlapping\") is the most abstract of the animal pieces. The same At the Ranch, Frantic, Deer and Coyotes, Hillside order is used in all four categories these pieces share."
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Deer stand on the trail above the gamboling coyote pups in the valley, a mother and yearling deer maybe.",
           "rank": 50
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Deer stand on the trail above the gamboling coyote pups in the valley, a mother and yearling deer maybe.",
           "rank": 50
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Deer stand on the trail above the gamboling coyote pups in the valley, a mother and yearling deer maybe.",
           "rank": 30
         }
@@ -696,7 +711,7 @@
     },
     "defiant-subversive-seditious-christmas": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Christmas carols at Lessons and Carols! How I love singing those traditional religious carols!",
           "rank": 250
         }
@@ -707,7 +722,7 @@
     },
     "destructive-gentleness": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Is gentleness so impractical, so irrelevant, so pointless that we would be better off relegating it to a wish list?",
           "rank": 450
         }
@@ -718,15 +733,15 @@
     },
     "did-we-love": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "We each leave our legacy, whether an empty and unnoticed void or a towering chrome and steel corporation.",
           "rank": 360
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "We each leave our legacy, whether an empty and unnoticed void or a towering chrome and steel corporation.",
           "rank": 210
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "We each leave our legacy, whether an empty and unnoticed void or a towering chrome and steel corporation.",
           "rank": 110
         }
@@ -737,7 +752,7 @@
     },
     "digital-disruption": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "The digital disruption has unleashed the worst of human nature and created levels of illusion and delusion and detachment never before experienced.",
           "rank": 120
         }
@@ -748,7 +763,7 @@
     },
     "digital-migrations": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "We now migrate digitally. Our tribe and ethnic group has been replaced by those who listen to the same news sources.",
           "rank": 170
         }
@@ -759,7 +774,7 @@
     },
     "digital-storm": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "The digital storm, the storm of manipulation. We were not ready for this.",
           "rank": 110
         }
@@ -770,7 +785,7 @@
     },
     "digitally-fractured-beliefs": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Shatter beliefs and shatter a nation, fragment beliefs and destroy a civilization.",
           "rank": 160
         }
@@ -781,7 +796,7 @@
     },
     "do-not-cling-to-the-light": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Stay, stay in place for a moment, hold your ground as long as you dare.",
           "rank": 270
         }
@@ -796,11 +811,11 @@
           "excerpt": "There is a liminal peace, a liminal peace right at the edge of this temporal world, right there, right at the edge.",
           "rank": 150
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "There is a liminal peace, a liminal peace right at the edge of this temporal world, right there, right at the edge.",
           "rank": 360
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "There is a liminal peace, a liminal peace right at the edge of this temporal world, right there, right at the edge.",
           "rank": 100
         }
@@ -811,11 +826,11 @@
     },
     "enduring-consciousness": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "The only thing that has endured throughout our entire lives is our individual consciousness.",
           "rank": 410
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "The only thing that has endured throughout our entire lives is our individual consciousness.",
           "rank": 310
         }
@@ -826,7 +841,7 @@
     },
     "faith-crisis-faith-freedom": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Disproving one belief casts all the others into doubt. Horror of horrors, we are forced to accept personal responsibility for what we believe!",
           "rank": 320,
           "note": "Faith Crisis, Faith Freedom hands off to In Need of Meadow: the audit of one's beliefs, then \"I seek repentance from this life of following and going with the world's flow\", and the meadow's perspective."
@@ -838,19 +853,19 @@
     },
     "faith-madness": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Living in faith means of necessity living in contradiction to the world.",
           "rank": 490
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Living in faith means of necessity living in contradiction to the world.",
           "rank": 270
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Living in faith means of necessity living in contradiction to the world.",
           "rank": 220
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "Living in faith means of necessity living in contradiction to the world.",
           "rank": 70,
           "note": "Faith Madness leads into Fledging: \"mad, maddening, marvelous\" faith, then \"mad and maddening chaos\" from which pure Love is distilled."
@@ -866,19 +881,19 @@
           "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
           "rank": 60
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
           "rank": 500
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
           "rank": 280
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
           "rank": 230
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "This world is merely a launching point. To understand the Purpose and Reality of the stew while just looking at the iron pot is impossible.",
           "rank": 80
         }
@@ -889,11 +904,11 @@
     },
     "flightless-souls-on-walkabout": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "At the pond, post sunrise, the three Marx brothers ducks at my feet.",
           "rank": 80
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "At the pond, post sunrise, the three Marx brothers ducks at my feet.",
           "rank": 80
         }
@@ -904,7 +919,7 @@
     },
     "following-the-unseeable": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "There are always ways to give. There are always ways to give more.",
           "rank": 290
         }
@@ -915,7 +930,7 @@
     },
     "for-the-children": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "What if they simply want to raise their children in safety and security…might we surprisingly find ourselves on the same side?",
           "rank": 270
         }
@@ -926,16 +941,16 @@
     },
     "forgiving-god": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Is it really all our fault?",
           "rank": 520
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Is it really all our fault?",
           "rank": 300,
           "note": "Forgiving God hands off to Enduring Consciousness through the same image: \"these chrysalides of humanity\", then the body as \"merely a passing chrysalis form\"."
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Is it really all our fault?",
           "rank": 260
         }
@@ -950,15 +965,15 @@
           "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
           "rank": 30
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
           "rank": 40
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
           "rank": 40
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "The robin parents frantically cheep and cheep, or should I say cry and cry?",
           "rank": 20
         }
@@ -985,11 +1000,11 @@
           "rank": 50,
           "note": "Ghost of Perfection's open ending (\"waiting there,\") is followed by Symphony of Chance, which keeps listening, so the reader is carried onward as you intend."
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "What new can be said? What new can possibly be said?",
           "rank": 450
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "What new can be said? What new can possibly be said?",
           "rank": 240
         }
@@ -1000,11 +1015,11 @@
     },
     "heart-blindness": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Such madness besets this poor blinded humanity! Dear God, such madness!",
           "rank": 340
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Such madness besets this poor blinded humanity! Dear God, such madness!",
           "rank": 200
         }
@@ -1015,7 +1030,7 @@
     },
     "heaven-with-a-little-help-from-me-friends": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Joe Cocker, dead?! That is of course preposterous. Surely it is time to dispel this cruel illusion of death.",
           "rank": 420
         }
@@ -1030,19 +1045,19 @@
           "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
           "rank": 50
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
           "rank": 60
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
           "rank": 60
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
           "rank": 40
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "So beautiful, this simple hillside. So beautiful in peace and momentary safety.",
           "rank": 20
         }
@@ -1053,7 +1068,7 @@
     },
     "impact-of-refugees": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "God help us if we are not changed by the encounter. We will not change the world, but can we change a life?",
           "rank": 280
         }
@@ -1064,11 +1079,11 @@
     },
     "impossible-yearning": {
       "memberships": {
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Is the deep Unity and Communion to which the human spirit is called fundamentally not realizable on this earth?",
           "rank": 350
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Is the deep Unity and Communion to which the human spirit is called fundamentally not realizable on this earth?",
           "rank": 160
         }
@@ -1079,7 +1094,7 @@
     },
     "in-need-of-meadow": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "We need meadows in our lives, we need a chance to get some momentary distance, some perspective.",
           "rank": 330
         }
@@ -1094,7 +1109,7 @@
           "excerpt": "Oh the joys of contemplative prayer. Oh the touch of Reality. Oh the blindness.",
           "rank": 160
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "Oh the joys of contemplative prayer. Oh the touch of Reality. Oh the blindness.",
           "rank": 110
         }
@@ -1105,7 +1120,7 @@
     },
     "indefensible-hope": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Take heart. Take no faith in this world, but take heart in its moments of beauty.",
           "rank": 300
         }
@@ -1116,7 +1131,7 @@
     },
     "inevitable-war": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Wars arise from freely chosen evil in the hearts of malevolent and politically popular leaders.",
           "rank": 260
         }
@@ -1127,11 +1142,11 @@
     },
     "inexorable-life": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Ultimately, what is Life? Life is the creation of our essence, we the children of God.",
           "rank": 430
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Ultimately, what is Life? Life is the creation of our essence, we the children of God.",
           "rank": 140
         }
@@ -1142,7 +1157,7 @@
     },
     "intention-of-attention": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Glorious. Critical angle sun spotlights the willows on the opposite side of the pond. The ducks’ iridescent green heads shimmer in the low-angle sun.",
           "rank": 120,
           "note": "Intention of Attention is the turn from Nature to named faith. The pond at sunrise becomes \"'Repent!' cries the Meschioch\"."
@@ -1154,7 +1169,7 @@
     },
     "judgement-daze": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Judgement is always bad for the soul, yet from the first message and first flicker of the screen the daily words and images demand that we cast judgement.",
           "rank": 190
         }
@@ -1170,7 +1185,7 @@
           "rank": 20,
           "note": "Just a Moment as No. 2 is a small joke that works. \"This is no time for poetry\" lands right after the first poem."
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "Warm sun on neck. Cool air on face. Trilling birds in trees.",
           "rank": 10,
           "note": "Just a Moment opens the category: \"Penetrate this moment and discover it is the gateway to all moments.\" Hillside's angels then come through that gateway."
@@ -1182,11 +1197,11 @@
     },
     "knowledge-of-good-and-evil": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "To have profound knowledge of good and evil you must be inescapably trapped in a situation out of your control.",
           "rank": 380
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "To have profound knowledge of good and evil you must be inescapably trapped in a situation out of your control.",
           "rank": 170
         }
@@ -1212,11 +1227,11 @@
           "excerpt": "Lessons, life lessons, learned and taken so seriously, lessons for the individual, no one else.",
           "rank": 210
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Lessons, life lessons, learned and taken so seriously, lessons for the individual, no one else.",
           "rank": 660
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Lessons, life lessons, learned and taken so seriously, lessons for the individual, no one else.",
           "rank": 480
         }
@@ -1227,11 +1242,11 @@
     },
     "life-adrift-or-navigating-life": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "As we go through life the shallow waters of a familiar lagoon seem safe and pretty and warm.",
           "rank": 330
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "As we go through life the shallow waters of a familiar lagoon seem safe and pretty and warm.",
           "rank": 190
         }
@@ -1242,7 +1257,7 @@
     },
     "machine-mirrors": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "We can say that the screens and keyboards are both mirror and window, revealing the unfiltered condition of the human spirit.",
           "rank": 130
         }
@@ -1253,7 +1268,7 @@
     },
     "many-truths": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "And there it is, the great destructive force of our times, the great deceit that has without warning overcome our society.",
           "rank": 200
         }
@@ -1264,7 +1279,7 @@
     },
     "material-separation": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "How coldly and lifelessly the material possessors to which we give our souls take from us opportunities for the eternal.",
           "rank": 90
         }
@@ -1279,7 +1294,7 @@
           "excerpt": "The world, chaos and madness, tearing and conflicting, confusing and confounding.",
           "rank": 120
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "The world, chaos and madness, tearing and conflicting, confusing and confounding.",
           "rank": 60
         }
@@ -1290,7 +1305,7 @@
     },
     "mindfield": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "People will give their lives to save others. People will kill to defend their ideas and beliefs.",
           "rank": 150
         }
@@ -1301,11 +1316,11 @@
     },
     "more-than-meat": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Spiritual discussions: don’t hear many of those in the workplace or locker room.",
           "rank": 600
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Spiritual discussions: don’t hear many of those in the workplace or locker room.",
           "rank": 410
         }
@@ -1316,7 +1331,7 @@
     },
     "no-time-for-grief": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "No time for grief, these times, no time for grief. Too much to get done in too short a time.",
           "rank": 250
         },
@@ -1331,7 +1346,7 @@
     },
     "oblivious-to-the-obvious": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "There is no easy breaking of this spell, this spell cast by the rich and powerful seeking more riches and power, this spell cast via media manipulation.",
           "rank": 240,
           "note": "Oblivious to the Obvious leads into No Time for Grief: the spell of manipulated masses, then \"the facades are falling\"."
@@ -1343,7 +1358,7 @@
     },
     "ontological-meaning-of-salvation": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "In this life we are forming as individual and unique identities.",
           "rank": 410
         }
@@ -1354,7 +1369,7 @@
     },
     "our-actions-coerced-compelled-chosen": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "The answers are all right before us. The structure of existence, the nature of our being, the summary of purpose and meaning, it is all right before us.",
           "rank": 120
         }
@@ -1365,11 +1380,11 @@
     },
     "our-ancient-birth": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "I call this temporal world the place of our spiritual birth and the time of our Choice.",
           "rank": 240
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "I call this temporal world the place of our spiritual birth and the time of our Choice.",
           "rank": 130
         }
@@ -1380,7 +1395,7 @@
     },
     "our-nature": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "We can celebrate Nature, no longer afraid or intimidated…if we haven't killed it.",
           "rank": 370
         }
@@ -1395,15 +1410,15 @@
           "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
           "rank": 180
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
           "rank": 570
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
           "rank": 370
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "In that place of Light, each individual conscious being projects a soft reality, strong but flexible, without the cutting, sharp, jagged edges of the clashing, conflicting, colliding individual realities of this world.",
           "rank": 340
         }
@@ -1414,7 +1429,7 @@
     },
     "overlapping-realities": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "The seductions of this carnal world leave us all living a dream, overlapping individual dreams perhaps, but being dreams they are not grounded in a shared objective reality.",
           "rank": 210
         }
@@ -1425,11 +1440,11 @@
     },
     "pachinko-minds": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Our minds rattle through their pachinko (a Japanese vertical pinball game) path of development, bouncing this way and that.",
           "rank": 580
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Our minds rattle through their pachinko (a Japanese vertical pinball game) path of development, bouncing this way and that.",
           "rank": 380
         }
@@ -1440,7 +1455,7 @@
     },
     "painful-prayer": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Should prayer be difficult?",
           "rank": 180
         }
@@ -1451,7 +1466,7 @@
     },
     "palm-sunday-anti-climax": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "The world can’t help but notice the Christ, and aspects of the Christ, in whatever loving form they may appear.",
           "rank": 260
         }
@@ -1462,7 +1477,7 @@
     },
     "personalized-scripture": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "I think back on this week’s Lectionary study group meeting.",
           "rank": 200
         }
@@ -1477,7 +1492,7 @@
           "excerpt": "Oh ye lost children, so busy with your plans.",
           "rank": 80
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Oh ye lost children, so busy with your plans.",
           "rank": 140
         }
@@ -1488,7 +1503,7 @@
     },
     "powerless-triumph": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "We will never lack for kings and queens, by whatever title.",
           "rank": 280
         }
@@ -1499,7 +1514,7 @@
     },
     "pray-alone-that-you-may-love-together": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Each element of consciousness, each individual soul, knows only that to which it gets exposed by its immediate experiences and that which it is told by the other people around it.",
           "rank": 300
         }
@@ -1510,7 +1525,7 @@
     },
     "pre-dawn-ragged-blanket": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Turn from it, dampen the senses, pull a ragged blanket over awareness, like the homeless do on the cold nights in the park.",
           "rank": 60
         }
@@ -1521,7 +1536,7 @@
     },
     "question-revealing-truth": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Each experiences the Christos by the name they were taught.",
           "rank": 160,
           "note": "Question Revealing Truth opens the explicitly religious part. \"Each experiences the Christos by the name they were taught\" introduces the word Christos before the essays that rely on it."
@@ -1533,7 +1548,7 @@
     },
     "reality-gap": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Human perception has little to do with reality. People will see what they expect to see.",
           "rank": 220
         }
@@ -1544,11 +1559,11 @@
     },
     "recognizing-beauty": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "The creek is running! Barely, but running! Thank You, thank You, thank You for this symbol of the inexorable return of Life in spite of our destructiveness.",
           "rank": 90
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "The creek is running! Barely, but running! Thank You, thank You, thank You for this symbol of the inexorable return of Life in spite of our destructiveness.",
           "rank": 90,
           "note": "Recognizing Beauty hands off to Seeing Through Our Dreams and Scars: \"Imagine seeing. Imagine wanting to see.\" is followed by \"What would I see?\""
@@ -1560,7 +1575,7 @@
     },
     "ripples-in-time": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Does every event and action and choice leave an unending wake in the following universe?",
           "rank": 390
         }
@@ -1571,7 +1586,7 @@
     },
     "role-of-a-life-in-the-purpose-of-life": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "How are we to understand our roles in the unfolding Purpose and ongoing Creation?",
           "rank": 370
         }
@@ -1582,11 +1597,11 @@
     },
     "save-the-world-a-little-later": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Peace. It is OK to take a moment off.",
           "rank": 150
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Peace. It is OK to take a moment off.",
           "rank": 150
         }
@@ -1597,19 +1612,19 @@
     },
     "seeing-through-our-dreams-and-scars": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
           "rank": 100
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
           "rank": 100
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
           "rank": 50
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "What would I see? I’m not asking to see anymore. I will see what I’m supposed to see. I see blessings.",
           "rank": 30
         }
@@ -1624,11 +1639,11 @@
           "excerpt": "The embrace of shadows, welcoming home; mere projections of embrace, offering hints of the depths of connection.",
           "rank": 170
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "The embrace of shadows, welcoming home; mere projections of embrace, offering hints of the depths of connection.",
           "rank": 330
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "The embrace of shadows, welcoming home; mere projections of embrace, offering hints of the depths of connection.",
           "rank": 120
         }
@@ -1639,7 +1654,7 @@
     },
     "shock-prayer": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "God, help us. God, shock us.",
           "rank": 170
         }
@@ -1654,11 +1669,11 @@
           "excerpt": "The ebb and flow of Presence is too gentle, too soft, to intrude upon our noises and plans. It slips in and out of the lagoons of morning light as a silken tide.",
           "rank": 30
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "The ebb and flow of Presence is too gentle, too soft, to intrude upon our noises and plans. It slips in and out of the lagoons of morning light as a silken tide.",
           "rank": 10
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "The ebb and flow of Presence is too gentle, too soft, to intrude upon our noises and plans. It slips in and out of the lagoons of morning light as a silken tide.",
           "rank": 10,
           "note": "Silken Tide opens: \"too gentle, too soft, to intrude upon our noises and plans\". This is exactly the lede's \"sacred noticed in ordinary moments\"."
@@ -1670,19 +1685,19 @@
     },
     "small-world": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
           "rank": 230
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
           "rank": 110
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
           "rank": 110
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "The world looks small this morning, the thinness of the atmosphere somehow evident, the rippling geology only a thin crust, the burgeoning population compressed into an acutely finite area.",
           "rank": 60
         }
@@ -1693,7 +1708,7 @@
     },
     "soul-music-i": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "A young mind exposed to something new…may be a little changed by this musical exposure, and a little changed mind can change the world.",
           "rank": 10
         }
@@ -1704,7 +1719,7 @@
     },
     "soul-music-ii": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Let the music of our souls ring forth, and let us give thanks to the composers and musicians that provide the channel for that connection.",
           "rank": 20
         }
@@ -1715,7 +1730,7 @@
     },
     "spark-of-progress": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Listen to that spark of humanity within you that does not fear creativity and progress and change.",
           "rank": 470
         }
@@ -1726,11 +1741,11 @@
     },
     "stop-for-a-moment": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "There is good reason mystics seclude themselves in monastic retreats.",
           "rank": 130
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "There is good reason mystics seclude themselves in monastic retreats.",
           "rank": 120
         }
@@ -1745,20 +1760,20 @@
           "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
           "rank": 130
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
           "rank": 510
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
           "rank": 290
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
           "rank": 240,
           "note": "Storm of Creation leads into Dark Matter: creation as a storm, then stars ignited by the violence of the universe."
         },
-        "transcendent-conversations-and-vision": {
+        "transcendence": {
           "excerpt": "Let the thunder into your life, let its peels of threat shake your soul.",
           "rank": 90
         }
@@ -1769,15 +1784,15 @@
     },
     "stream-of-consciousness": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "There is of course only consciousness.",
           "rank": 560
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "There is of course only consciousness.",
           "rank": 340
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "There is of course only consciousness.",
           "rank": 150
         }
@@ -1788,11 +1803,11 @@
     },
     "successful-disaster": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Worldly disasters entangled with spiritual miracles….that’s about the best you can hope for in following the Spirit and Purpose.",
           "rank": 320
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Worldly disasters entangled with spiritual miracles….that’s about the best you can hope for in following the Spirit and Purpose.",
           "rank": 180
         }
@@ -1803,7 +1818,7 @@
     },
     "summary-of-life": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "What would I tell anyone? What would I tell myself?",
           "rank": 80
         }
@@ -1818,7 +1833,7 @@
           "excerpt": "Hear the chimes, that penetrating sound, the sound of wind instantiated.",
           "rank": 60
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Hear the chimes, that penetrating sound, the sound of wind instantiated.",
           "rank": 390,
           "note": "Symphony of Chance hands off to Bridges of Sound and Light: chimes, then music as a bridge between souls."
@@ -1830,7 +1845,7 @@
     },
     "syrian-ceasefire": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Ceasefire…opening the door to the Choice, the Choice we all make every day.",
           "rank": 290
         }
@@ -1841,7 +1856,7 @@
     },
     "temporally-senseless": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Maybe after recent thefts I better understand Yeshu (Jesus) saying “the guy takes your cloak, give him your coat too”.",
           "rank": 230
         }
@@ -1852,7 +1867,7 @@
     },
     "terlingua": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Terlingua can't afford the luxury of pretense.",
           "rank": 40
         }
@@ -1863,11 +1878,11 @@
     },
     "terrifying-passage-from-the-garden-to-the-kindom": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Imagine what existence would be like without fear and pain.",
           "rank": 400
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Imagine what existence would be like without fear and pain.",
           "rank": 190
         }
@@ -1878,11 +1893,11 @@
     },
     "that-person-next-to-you": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Inter-human interactions….. no experience comes closer to knowing God. No experience can so promptly and radically drive us away from all that is holy.",
           "rank": 610
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Inter-human interactions….. no experience comes closer to knowing God. No experience can so promptly and radically drive us away from all that is holy.",
           "rank": 420
         }
@@ -1893,15 +1908,15 @@
     },
     "the-bass-voice-of-god": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Why would God need masks or altars or guilt or amplifiers to reach us?",
           "rank": 310
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Why would God need masks or altars or guilt or amplifiers to reach us?",
           "rank": 630
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Why would God need masks or altars or guilt or amplifiers to reach us?",
           "rank": 440
         }
@@ -1912,7 +1927,7 @@
     },
     "the-curse-of-approval": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "How many triggers have been pulled, lies marketed, and forests bulldozed in order to gain approval of an officer, boss, or owner?",
           "rank": 80
         }
@@ -1923,11 +1938,11 @@
     },
     "the-death-of-personal-growth": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "But personal growth requires change, and change is a form of death of our existing self.",
           "rank": 310
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "But personal growth requires change, and change is a form of death of our existing self.",
           "rank": 170
         }
@@ -1938,7 +1953,7 @@
     },
     "the-fledging-of-downy-woodpeckers": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Everything encompassed in this moment, the entire universe, all Life, all right here, right now, an eternal now.",
           "rank": 350
         }
@@ -1949,7 +1964,7 @@
     },
     "the-inevitable-and-the-certain": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "In this world the balance required to maintain the Choice (necessary for the creation of pure Love) means that that which is holy and pure will inevitably come to disaster.",
           "rank": 270
         }
@@ -1960,15 +1975,15 @@
     },
     "the-scrum-of-perfection": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Life is a scrum, an unfair – odds stacked – guaranteed to lose – struggle….and from the grime and blood and dung arise the Light of Beauty and glimpses of Love.",
           "rank": 440
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Life is a scrum, an unfair – odds stacked – guaranteed to lose – struggle….and from the grime and blood and dung arise the Light of Beauty and glimpses of Love.",
           "rank": 230
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Life is a scrum, an unfair – odds stacked – guaranteed to lose – struggle….and from the grime and blood and dung arise the Light of Beauty and glimpses of Love.",
           "rank": 200
         }
@@ -1979,15 +1994,15 @@
     },
     "three-principles": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Were we to boil everything down to three principles:",
           "rank": 650
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Were we to boil everything down to three principles:",
           "rank": 460
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Were we to boil everything down to three principles:",
           "rank": 320
         }
@@ -1998,7 +2013,7 @@
     },
     "tracer-bullets-over-your-life-path": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "It is a dodging, ducking, diving, desperate tumbling scramble under tracer bullets through smoke and fire and shell craters.",
           "rank": 460
         }
@@ -2009,7 +2024,7 @@
     },
     "trust-your-robot": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "All the while we just need to listen to each other.",
           "rank": 140
         }
@@ -2024,7 +2039,7 @@
           "excerpt": "Infinite and eternal Truth…. funny how we do not expect it to be relevant, or do we not expect it to exist?",
           "rank": 200
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Infinite and eternal Truth…. funny how we do not expect it to be relevant, or do we not expect it to exist?",
           "rank": 470
         }
@@ -2035,11 +2050,11 @@
     },
     "unlocked-door-of-our-solitary-confinement": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "Where am I in all this writing? I fear I am at the center.",
           "rank": 540
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "Where am I in all this writing? I fear I am at the center.",
           "rank": 320
         }
@@ -2050,7 +2065,7 @@
     },
     "unnatural-peace": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "Longing for Peace, a whispering hint of the nature and potential of our souls.",
           "rank": 440
         }
@@ -2061,7 +2076,7 @@
     },
     "whats-left-after-conforming": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "There is a curious purity in being purely one’s self and getting lost in the Purpose.",
           "rank": 90
         }
@@ -2072,7 +2087,7 @@
     },
     "whispering-hope": {
       "memberships": {
-        "observations-of-human-life": {
+        "seeing-life": {
           "excerpt": "There is only Hope, the same Hope of the ages born out of darkest persecutions, the timeless Hope that rises from bloodiest crucifixions.",
           "rank": 430
         }
@@ -2083,7 +2098,7 @@
     },
     "winning-with-the-stacked-deck-of-life": {
       "memberships": {
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "Don’t we all wish we were different?",
           "rank": 100
         }
@@ -2098,11 +2113,11 @@
           "excerpt": "It is of course worship, desperate, frantic, clinging worship. It is worship of a memory, a past and prescient and present memory, a memory ineffable.",
           "rank": 190
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "It is of course worship, desperate, frantic, clinging worship. It is worship of a memory, a past and prescient and present memory, a memory ineffable.",
           "rank": 640
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "It is of course worship, desperate, frantic, clinging worship. It is worship of a memory, a past and prescient and present memory, a memory ineffable.",
           "rank": 450
         }
@@ -2113,15 +2128,15 @@
     },
     "would-we-miss-death": {
       "memberships": {
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "What would we do without the immense overhead of our physical maintenance?",
           "rank": 390
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "What would we do without the immense overhead of our physical maintenance?",
           "rank": 220
         },
-        "structure-of-the-purpose-and-destiny-of-life": {
+        "foundation-purpose-meaning-destiny": {
           "excerpt": "What would we do without the immense overhead of our physical maintenance?",
           "rank": 180
         }
@@ -2136,11 +2151,11 @@
           "excerpt": "The human spirit, or is it soul, or do we have no name for it, something individual, something lost, or was it forgotten?",
           "rank": 140
         },
-        "spiritual-with-religion": {
+        "naming-the-spiritual": {
           "excerpt": "The human spirit, or is it soul, or do we have no name for it, something individual, something lost, or was it forgotten?",
           "rank": 550
         },
-        "spiritual-without-religion": {
+        "the-nameless-spiritual": {
           "excerpt": "The human spirit, or is it soul, or do we have no name for it, something individual, something lost, or was it forgotten?",
           "rank": 330
         }
@@ -2158,5 +2173,6 @@
   "_about_ordering": "Authoritative ordering record for the website and the books (author decision, Oct 18, 2026). Within each category, essays sort by rank. categories[slug].arcs names the groups (chapter headings), each starting at the essay given in starts_at; ordering_notes and memberships[...].note record the reasons for the order (from the approved Category Ordering Review, Oct 18, 2026).",
   "_about_category_names": "Since Oct 19, 2026 each category's label is also the name used in the CATEGORIES: header of Drive files. Older files may still use the former descriptive names listed in former_header_names; treat them as the same category. The Foundation label has a no-break space before each en dash so a dash never starts a line.",
   "site_launched": "2026-10-21",
-  "_about_feed": "feed.xml dates each essay by essays[slug].added (YYYY-MM-DD) if present, otherwise by site_launched (the day the site went live; approximate). Give every newly added essay an 'added' date."
+  "_about_feed": "feed.xml dates each essay by essays[slug].added (YYYY-MM-DD) if present, otherwise by site_launched (the day the site went live; approximate). Give every newly added essay an 'added' date.",
+  "_about_category_urls": "Oct 29, 2026, at the author's request: category page addresses now match the category names. categories[slug].former_slugs lists each old address; the generator writes a small redirect page at each old address (categories/<old>.html) that sends visitors and search engines to the new one. Keep those redirect pages."
 }
